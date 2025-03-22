@@ -1,0 +1,1004 @@
+"company";"location";"industry";"total_laid_off";"percentage_laid_off";"date";"stage";"country";"funds_raised"
+"";"New York";"Tech";500;0.0;"2023-07-20";"Startup";"USA";15000
+"Alerzo";"Berlin";"Automotive";869;0.3;"2023-09-03";"Unknown";"Brazil";4756
+"Alerzo";"Berlin";"Automotive";1633;0.23;"2023-11-23";"Post-IPO";"United States";5494
+"Alerzo";"Berlin";"Automotive";1728;0.12;"2023-02-26";"Unknown";"UK";5107
+"Alerzo";"Berlin";"Education";437;0.15;"2023-04-11";"Pre-IPO";"France";755
+"Alerzo";"Berlin";"Finance";342;0.26;"2023-12-18";"Startup";"France";1050
+"Alerzo";"Berlin";"Finance";1323;0.11;"2023-05-12";"Pre-IPO";"United States";1292
+"Alerzo";"Berlin";"Finance";1724;0.28;"2023-02-10";"Series A";"UK";9556
+"Alerzo";"Berlin";"Healthcare";620;0.37;"2023-05-18";"Post-IPO";"Nigeria";468
+"Alerzo";"Berlin";"Manufacturing";1528;0.24;"2023-09-26";"Unknown";"India";2171
+"Alerzo";"Berlin";"Media";95;0.06;"2023-11-07";"Unknown";"Nigeria";2562
+"Alerzo";"Berlin";"Media";1242;0.02;"2023-07-06";"Startup";"Nigeria";7502
+"Alerzo";"Berlin";"Real Estate";220;0.05;"2023-02-13";"Startup";"UK";7910
+"Alerzo";"Berlin";"Real Estate";1700;0.43;"2023-04-20";"Post-IPO";"UK";1711
+"Alerzo";"Ibadan";"Education";1387;0.41;"2023-12-12";"Series B";"Nigeria";6487
+"Alerzo";"Ibadan";"Energy";1589;0.39;"2023-08-18";"Series B";"Germany";6218
+"Alerzo";"Ibadan";"Finance";164;0.21;"2023-12-02";"Pre-IPO";"Canada";2079
+"Alerzo";"Ibadan";"Finance";952;0.21;"2023-08-08";"Pre-IPO";"Nigeria";231
+"Alerzo";"Ibadan";"Healthcare";1107;0.46;"2023-06-16";"Series A";"Nigeria";4402
+"Alerzo";"Ibadan";"Healthcare";1940;0.38;"2023-01-15";"Series B";"Australia";2877
+"Alerzo";"Ibadan";"Manufacturing";779;0.35;"2023-03-24";"Unknown";"Japan";8570
+"Alerzo";"Ibadan";"Manufacturing";1339;0.09;"2023-11-16";"Pre-IPO";"France";76
+"Alerzo";"Ibadan";"Media";413;0.23;"2023-11-24";"Series B";"Canada";8880
+"Alerzo";"Ibadan";"Media";1601;0.11;"2023-05-25";"Unknown";"France";6245
+"Alerzo";"Ibadan";"Real Estate";403;0.4;"2023-11-12";"Series A";"United States";1407
+"Alerzo";"Ibadan";"Tech";1236;0.21;"2023-03-25";"Series A";"United States";584
+"Alerzo";"London";"Automotive";430;0.42;"2023-01-25";"Unknown";"Nigeria";5224
+"Alerzo";"London";"Energy";676;0.39;"2023-11-17";"Unknown";"France";5214
+"Alerzo";"London";"Finance";282;0.44;"2023-12-25";"Startup";"Canada";3548
+"Alerzo";"London";"Finance";1617;0.38;"2023-02-03";"Unknown";"Japan";8966
+"Alerzo";"London";"Healthcare";1261;0.14;"2023-11-07";"Post-IPO";"India";7112
+"Alerzo";"London";"Manufacturing";1462;0.12;"2023-07-18";"Series A";"India";6829
+"Alerzo";"London";"Media";400;0.09;"2023-07-27";"Series B";"Nigeria";8289
+"Alerzo";"London";"Tech";1114;0.06;"2023-09-08";"Startup";"Nigeria";2260
+"Alerzo";"London";"Tech";1182;0.37;"2023-09-13";"Post-IPO";"Australia";941
+"Alerzo";"Bombay";"Automotive";320;0.14;"2023-06-15";"Series A";"France";7725
+"Alerzo";"Bombay";"Finance";264;0.21;"2023-04-18";"Series A";"Germany";7233
+"Alerzo";"Bombay";"Finance";1562;0.42;"2023-11-15";"Series B";"Japan";327
+"Alerzo";"Bombay";"Manufacturing";676;0.41;"2023-09-03";"Series B";"Brazil";4018
+"Alerzo";"Bombay";"Media";878;0.28;"2023-07-10";"Series A";"United States";905
+"Alerzo";"Bombay";"Media";1074;0.32;"2023-08-19";"Series A";"United States";9846
+"Alerzo";"Bombay";"Real Estate";556;0.1;"2023-03-16";"Unknown";"Brazil";518
+"Alerzo";"Bombay";"Real Estate";605;0.2;"2023-07-19";"Series B";"UK";637
+"Alerzo";"Bombay";"Real Estate";1377;0.33;"2023-09-08";"Startup";"Brazil";8131
+"Alerzo";"Bombay";"Retail";753;0.34;"2023-11-17";"Pre-IPO";"India";8004
+"Alerzo";"New York City";"Automotive";1430;0.43;"2023-05-09";"Pre-IPO";"Nigeria";5466
+"Alerzo";"New York City";"Automotive";1678;0.06;"2023-04-15";"Startup";"India";8596
+"Alerzo";"New York City";"Education";86;0.47;"2023-10-02";"Startup";"Canada";328
+"Alerzo";"New York City";"Energy";845;0.4;"2023-12-13";"Startup";"UK";6471
+"Alerzo";"New York City";"Healthcare";1777;0.06;"2023-04-02";"Series B";"UK";9766
+"Alerzo";"New York City";"Manufacturing";1177;0.25;"2023-06-12";"Series A";"Australia";9383
+"Alerzo";"New York City";"Media";1444;0.06;"2023-05-10";"Startup";"Germany";5251
+"Alerzo";"New York City";"Media";1525;0.44;"2023-10-26";"Pre-IPO";"Nigeria";8618
+"Alerzo";"New York City";"Media";1956;0.31;"2023-06-25";"Series A";"France";6288
+"Alerzo";"San Francisco";"Automotive";782;0.48;"2023-06-02";"Startup";"UK";8885
+"Alerzo";"San Francisco";"Automotive";995;0.41;"2023-01-27";"Post-IPO";"Brazil";449
+"Alerzo";"San Francisco";"Energy";493;0.34;"2023-03-18";"Post-IPO";"Brazil";1428
+"Alerzo";"San Francisco";"Energy";1876;0.33;"2023-04-08";"Post-IPO";"United States";2108
+"Alerzo";"San Francisco";"Finance";1288;0.44;"2023-02-03";"Startup";"Brazil";7969
+"Alerzo";"San Francisco";"Healthcare";844;0.46;"2023-09-02";"Pre-IPO";"Canada";2186
+"Alerzo";"San Francisco";"Healthcare";1893;0.2;"2023-07-05";"Series A";"India";2732
+"Alerzo";"San Francisco";"Manufacturing";164;0.18;"2023-05-20";"Startup";"Australia";9066
+"Alerzo";"San Francisco";"Manufacturing";339;0.1;"2023-04-01";"Post-IPO";"Japan";7246
+"Alerzo";"San Francisco";"Manufacturing";1018;0.09;"2023-06-19";"Startup";"United States";2071
+"Alerzo";"San Francisco";"Media";1209;0.37;"2023-08-25";"Pre-IPO";"Nigeria";2163
+"Alerzo";"San Francisco";"Retail";588;0.4;"2023-02-08";"Post-IPO";"India";4779
+"Alerzo";"San Francisco";"Retail";920;0.14;"2023-01-21";"Post-IPO";"France";2031
+"Alerzo";"San Francisco";"Tech";986;0.43;"2023-06-03";"Pre-IPO";"Germany";2867
+"Alerzo";"Sao Paulo";"Education";626;0.31;"2023-06-16";"Startup";"France";7152
+"Alerzo";"Sao Paulo";"Education";953;0.33;"2023-04-22";"Series A";"India";1070
+"Alerzo";"Sao Paulo";"Education";1386;0.3;"2023-07-03";"Series B";"Japan";5459
+"Alerzo";"Sao Paulo";"Energy";1890;0.45;"2023-09-02";"Post-IPO";"Japan";7135
+"Alerzo";"Sao Paulo";"Finance";292;0.06;"2023-09-15";"Startup";"France";339
+"Alerzo";"Sao Paulo";"Finance";1920;0.31;"2023-03-02";"Series A";"France";2237
+"Alerzo";"Sao Paulo";"Healthcare";542;0.23;"2023-04-02";"Series A";"Canada";9615
+"Alerzo";"Sao Paulo";"Healthcare";848;0.3;"2023-05-19";"Series A";"UK";9833
+"Alerzo";"Sao Paulo";"Healthcare";1016;0.34;"2023-12-12";"Startup";"Brazil";2312
+"Alerzo";"Sao Paulo";"Manufacturing";38;0.47;"2023-07-21";"Series A";"United States";1887
+"Alerzo";"Sao Paulo";"Media";1070;0.24;"2023-09-01";"Unknown";"Nigeria";152
+"Alerzo";"Sao Paulo";"Media";1316;0.12;"2023-02-23";"Unknown";"United States";386
+"Alerzo";"Sao Paulo";"Real Estate";1533;0.12;"2023-09-09";"Series B";"Brazil";8269
+"Alerzo";"Sao Paulo";"Tech";1270;0.39;"2023-07-23";"Pre-IPO";"UK";3110
+"Alerzo";"Sydney";"Education";483;0.07;"2023-09-16";"Pre-IPO";"Canada";4100
+"Alerzo";"Sydney";"Energy";1563;0.34;"2023-10-02";"Startup";"India";6964
+"Alerzo";"Sydney";"Energy";1692;0.17;"2023-05-22";"Pre-IPO";"UK";4019
+"Alerzo";"Sydney";"Finance";1247;0.16;"2023-06-19";"Unknown";"Canada";8895
+"Alerzo";"Sydney";"Healthcare";396;0.46;"2023-04-27";"Unknown";"United States";1657
+"Alerzo";"Sydney";"Healthcare";951;0.46;"2023-04-08";"Startup";"United States";9132
+"Alerzo";"Sydney";"Healthcare";1185;0.37;"2023-11-20";"Series B";"France";2935
+"Alerzo";"Sydney";"Manufacturing";1002;0.37;"2023-08-08";"Startup";"Australia";1737
+"Alerzo";"Sydney";"Manufacturing";1308;0.23;"2023-03-27";"Post-IPO";"UK";3023
+"Alerzo";"Sydney";"Media";72;0.41;"2023-08-07";"Startup";"UK";2326
+"Alerzo";"Sydney";"Media";1855;0.14;"2023-03-23";"Series A";"Nigeria";1052
+"Alerzo";"Sydney";"Tech";62;0.32;"2023-05-27";"Pre-IPO";"UK";966
+"Alerzo";"Sydney";"Tech";1268;0.04;"2023-02-09";"Series A";"India";4664
+"Alerzo";"Sydney";"Tech";1755;0.26;"2023-05-03";"Pre-IPO";"France";1719
+"Alerzo";"Tokyo";"Education";1031;0.46;"2023-03-02";"Startup";"Canada";2097
+"Alerzo";"Tokyo";"Energy";1529;0.39;"2023-01-04";"Series B";"Nigeria";5957
+"Alerzo";"Tokyo";"Energy";1810;0.32;"2023-03-25";"Unknown";"France";7402
+"Alerzo";"Tokyo";"Healthcare";1103;0.03;"2023-11-28";"Series A";"Germany";8618
+"Alerzo";"Tokyo";"Manufacturing";623;0.16;"2023-03-11";"Startup";"France";1766
+"Alerzo";"Tokyo";"Manufacturing";1269;0.45;"2023-12-14";"Startup";"India";7846
+"Alerzo";"Tokyo";"Media";1334;0.33;"2023-07-27";"Pre-IPO";"Brazil";6827
+"Alerzo";"Tokyo";"Real Estate";1237;0.43;"2023-05-02";"Startup";"United States";9477
+"Alerzo";"Tokyo";"Retail";1984;0.31;"2023-01-08";"Series A";"Canada";8574
+"Alerzo";"Toronto";"Automotive";1467;0.37;"2023-01-02";"Pre-IPO";"United States";1334
+"Alerzo";"Toronto";"Education";321;0.01;"2023-06-08";"Pre-IPO";"Brazil";1421
+"Alerzo";"Toronto";"Education";490;0.5;"2023-03-20";"Post-IPO";"UK";3273
+"Alerzo";"Toronto";"Energy";1458;0.24;"2023-04-17";"Series B";"Japan";3638
+"Alerzo";"Toronto";"Energy";1814;0.37;"2023-09-16";"Unknown";"Nigeria";3536
+"Alerzo";"Toronto";"Manufacturing";374;0.43;"2023-05-22";"Series B";"UK";3796
+"Alerzo";"Toronto";"Manufacturing";774;0.11;"2023-08-12";"Unknown";"India";9026
+"Alerzo";"Toronto";"Media";796;0.02;"2023-10-17";"Post-IPO";"UK";3513
+"Alerzo";"Toronto";"Real Estate";1475;0.14;"2023-09-15";"Post-IPO";"Canada";5554
+"Alerzo";"Toronto";"Real Estate";1557;0.29;"2023-06-12";"Post-IPO";"Germany";2361
+"Alerzo";"Toronto";"Tech";1940;0.44;"2023-02-07";"Pre-IPO";"Nigeria";9228
+"Amazon";"Berlin";"Automotive";985;0.09;"2023-05-03";"Startup";"Canada";6746
+"Amazon";"Berlin";"Energy";1809;0.3;"2023-12-23";"Pre-IPO";"United States";2529
+"Amazon";"Berlin";"Finance";714;0.46;"2023-02-20";"Unknown";"India";1758
+"Amazon";"Berlin";"Media";1115;0.39;"2023-01-04";"Post-IPO";"India";7768
+"Amazon";"Berlin";"Media";1240;0.18;"2023-05-28";"Post-IPO";"France";974
+"Amazon";"Berlin";"Media";1333;0.1;"2023-09-05";"Pre-IPO";"Japan";4091
+"Amazon";"Berlin";"Real Estate";357;0.33;"2023-05-14";"Post-IPO";"Canada";6928
+"Amazon";"Berlin";"Retail";548;0.27;"2023-05-10";"Post-IPO";"Brazil";8736
+"Amazon";"Ibadan";"Automotive";207;0.11;"2023-11-20";"Pre-IPO";"India";8154
+"Amazon";"Ibadan";"Automotive";905;0.22;"2023-11-06";"Post-IPO";"Germany";6336
+"Amazon";"Ibadan";"Energy";630;0.34;"2023-03-22";"Unknown";"Nigeria";420
+"Amazon";"Ibadan";"Energy";1505;0.31;"2023-12-22";"Startup";"Germany";8471
+"Amazon";"Ibadan";"Healthcare";1678;0.28;"2023-09-22";"Pre-IPO";"Japan";9437
+"Amazon";"Ibadan";"Manufacturing";558;0.03;"2023-02-28";"Startup";"Australia";5070
+"Amazon";"Ibadan";"Manufacturing";1033;0.18;"2023-01-12";"Startup";"UK";8820
+"Amazon";"Ibadan";"Manufacturing";1663;0.49;"2023-06-18";"Series A";"India";2698
+"Amazon";"Ibadan";"Real Estate";720;0.18;"2023-12-16";"Series A";"UK";8546
+"Amazon";"Ibadan";"Real Estate";1207;0.12;"2023-03-26";"Series A";"India";7589
+"Amazon";"Ibadan";"Real Estate";1489;0.42;"2023-12-06";"Series A";"Brazil";3776
+"Amazon";"Ibadan";"Real Estate";1738;0.14;"2023-02-26";"Series A";"UK";9243
+"Amazon";"Ibadan";"Retail";232;0.16;"2023-12-23";"Pre-IPO";"Australia";366
+"Amazon";"London";"Automotive";239;0.21;"2023-01-03";"Series A";"United States";5471
+"Amazon";"London";"Education";24;0.19;"2023-08-24";"Pre-IPO";"Japan";1906
+"Amazon";"London";"Education";1583;0.46;"2023-06-09";"Series A";"Canada";7760
+"Amazon";"London";"Education";1706;0.3;"2023-10-26";"Post-IPO";"Germany";6706
+"Amazon";"London";"Energy";184;0.11;"2023-06-26";"Unknown";"Canada";5067
+"Amazon";"London";"Finance";726;0.15;"2023-07-05";"Post-IPO";"India";6696
+"Amazon";"London";"Healthcare";644;0.06;"2023-11-03";"Unknown";"United States";8839
+"Amazon";"London";"Healthcare";714;0.4;"2023-03-01";"Series A";"Germany";746
+"Amazon";"London";"Tech";1169;0.14;"2023-08-09";"Pre-IPO";"Germany";8725
+"Amazon";"Bombay";"Automotive";976;0.12;"2023-04-25";"Series B";"Japan";8383
+"Amazon";"Bombay";"Healthcare";1265;0.24;"2023-06-18";"Series B";"Japan";6759
+"Amazon";"Bombay";"Manufacturing";387;0.43;"2023-04-26";"Pre-IPO";"Australia";2641
+"Amazon";"Bombay";"Manufacturing";1127;0.13;"2023-04-01";"Unknown";"UK";6811
+"Amazon";"Bombay";"Media";318;0.47;"2023-09-17";"Post-IPO";"UK";7851
+"Amazon";"Bombay";"Media";990;0.46;"2023-02-01";"Series A";"Japan";2527
+"Amazon";"Bombay";"Real Estate";1000;0.06;"2023-01-17";"Series A";"Canada";3249
+"Amazon";"Bombay";"Retail";1357;0.15;"2023-02-06";"Series B";"Canada";2934
+"Amazon";"Bombay";"Tech";987;0.3;"2023-01-07";"Series B";"Germany";9276
+"Amazon";"New York City";"Energy";1874;0.27;"2023-01-07";"Series A";"Canada";199
+"Amazon";"New York City";"Finance";976;0.28;"2023-08-27";"Post-IPO";"Canada";3023
+"Amazon";"New York City";"Finance";1377;0.25;"2023-03-15";"Series A";"Japan";8381
+"Amazon";"New York City";"Healthcare";728;0.46;"2023-09-06";"Post-IPO";"Australia";3779
+"Amazon";"New York City";"Manufacturing";1051;0.16;"2023-08-12";"Post-IPO";"France";9665
+"Amazon";"New York City";"Manufacturing";1085;0.23;"2023-01-06";"Post-IPO";"UK";3528
+"Amazon";"New York City";"Media";247;0.31;"2023-12-07";"Series A";"Nigeria";9227
+"Amazon";"New York City";"Media";506;0.21;"2023-10-06";"Series B";"Germany";4439
+"Amazon";"New York City";"Media";1572;0.07;"2023-12-16";"Pre-IPO";"UK";2266
+"Amazon";"New York City";"Real Estate";30;0.04;"2023-11-08";"Series B";"United States";1709
+"Amazon";"New York City";"Real Estate";1493;0.32;"2023-07-12";"Series A";"Germany";4810
+"Amazon";"San Francisco";"Automotive";65;0.09;"2023-02-12";"Startup";"Germany";4581
+"Amazon";"San Francisco";"Automotive";700;0.08;"2023-07-03";"Unknown";"Japan";8202
+"Amazon";"San Francisco";"Finance";1524;0.44;"2023-03-18";"Series B";"Brazil";1350
+"Amazon";"San Francisco";"Healthcare";859;0.02;"2023-07-22";"Pre-IPO";"France";8554
+"Amazon";"San Francisco";"Manufacturing";720;0.42;"2023-02-17";"Series B";"Germany";7280
+"Amazon";"San Francisco";"Manufacturing";1853;0.32;"2023-12-20";"Series B";"India";8116
+"Amazon";"San Francisco";"Manufacturing";1871;0.06;"2023-08-23";"Series A";"Germany";6734
+"Amazon";"San Francisco";"Media";844;0.02;"2023-06-09";"Post-IPO";"India";7325
+"Amazon";"San Francisco";"Retail";47;0.04;"2023-11-01";"Series B";"Canada";7901
+"Amazon";"San Francisco";"Retail";1446;0.33;"2023-11-02";"Series B";"Nigeria";2453
+"Amazon";"San Francisco";"Retail";1799;0.26;"2023-02-14";"Post-IPO";"Japan";6777
+"Amazon";"Sao Paulo";"Automotive";934;0.45;"2023-11-04";"Series A";"France";23
+"Amazon";"Sao Paulo";"Manufacturing";652;0.17;"2023-03-16";"Startup";"Brazil";6991
+"Amazon";"Sao Paulo";"Media";799;0.45;"2023-04-07";"Post-IPO";"United States";8838
+"Amazon";"Sao Paulo";"Retail";963;0.25;"2023-11-06";"Pre-IPO";"Japan";2095
+"Amazon";"Sao Paulo";"Tech";462;0.48;"2023-02-17";"Unknown";"UK";5573
+"Amazon";"Sao Paulo";"Tech";962;0.45;"2023-08-03";"Post-IPO";"United States";2058
+"Amazon";"Sydney";"Automotive";37;0.39;"2023-09-22";"Pre-IPO";"Nigeria";4368
+"Amazon";"Sydney";"Energy";1450;0.5;"2023-08-01";"Series A";"Brazil";67
+"Amazon";"Sydney";"Finance";842;0.11;"2023-01-21";"Unknown";"India";237
+"Amazon";"Sydney";"Finance";1945;0.13;"2023-01-14";"Startup";"France";3837
+"Amazon";"Sydney";"Healthcare";1011;0.02;"2023-12-23";"Unknown";"Nigeria";6593
+"Amazon";"Sydney";"Healthcare";1734;0.12;"2023-03-22";"Pre-IPO";"Brazil";2557
+"Amazon";"Sydney";"Manufacturing";61;0.27;"2023-02-20";"Startup";"UK";5466
+"Amazon";"Sydney";"Manufacturing";396;0.47;"2023-09-17";"Pre-IPO";"United States";4750
+"Amazon";"Sydney";"Tech";1721;0.45;"2023-02-18";"Unknown";"Australia";3395
+"Amazon";"Tokyo";"Automotive";671;0.03;"2023-08-06";"Series B";"Australia";9986
+"Amazon";"Tokyo";"Education";356;0.46;"2023-06-02";"Unknown";"Brazil";5104
+"Amazon";"Tokyo";"Education";594;0.22;"2023-11-02";"Post-IPO";"Canada";8108
+"Amazon";"Tokyo";"Education";1002;0.14;"2023-06-21";"Series B";"Germany";8218
+"Amazon";"Tokyo";"Energy";881;0.42;"2023-10-04";"Pre-IPO";"Australia";8235
+"Amazon";"Tokyo";"Energy";1526;0.17;"2023-11-04";"Series B";"Japan";9040
+"Amazon";"Tokyo";"Finance";184;0.49;"2023-04-10";"Post-IPO";"Germany";8110
+"Amazon";"Tokyo";"Finance";1168;0.43;"2023-07-08";"Post-IPO";"Canada";6014
+"Amazon";"Tokyo";"Healthcare";1516;0.5;"2023-03-14";"Series A";"France";5344
+"Amazon";"Tokyo";"Media";877;0.34;"2023-08-26";"Series A";"France";6242
+"Amazon";"Tokyo";"Real Estate";1651;0.09;"2023-06-16";"Pre-IPO";"India";7677
+"Amazon";"Tokyo";"Real Estate";1961;0.36;"2023-10-09";"Post-IPO";"UK";7592
+"Amazon";"Toronto";"Education";982;0.28;"2023-05-10";"Unknown";"France";7822
+"Amazon";"Toronto";"Education";1955;0.39;"2023-01-24";"Post-IPO";"Nigeria";1119
+"Amazon";"Toronto";"Finance";228;0.17;"2023-02-25";"Startup";"Nigeria";498
+"Amazon";"Toronto";"Finance";1052;0.15;"2023-07-21";"Series A";"United States";1329
+"Amazon";"Toronto";"Finance";1831;0.08;"2023-10-22";"Post-IPO";"United States";8977
+"Amazon";"Toronto";"Finance";1860;0.45;"2023-07-26";"Post-IPO";"Australia";2434
+"Amazon";"Toronto";"Healthcare";1979;0.31;"2023-09-08";"Series B";"Germany";6970
+"Amazon";"Toronto";"Media";1102;0.33;"2023-04-06";"Series B";"Germany";6672
+"Amazon";"Toronto";"Retail";570;0.07;"2023-05-16";"Pre-IPO";"France";1243
+"Atlassian";"Berlin";"Automotive";1642;0.21;"2023-12-26";"Post-IPO";"Australia";273
+"Atlassian";"Berlin";"Energy";856;0.09;"2023-12-11";"Post-IPO";"Japan";6949
+"Atlassian";"Berlin";"Healthcare";18;0.2;"2023-10-24";"Unknown";"UK";3819
+"Atlassian";"Berlin";"Manufacturing";45;0.18;"2023-07-26";"Unknown";"United States";3496
+"Atlassian";"Berlin";"Manufacturing";356;0.1;"2023-10-27";"Series B";"France";1312
+"Atlassian";"Berlin";"Media";1502;0.33;"2023-08-07";"Pre-IPO";"Japan";493
+"Atlassian";"Berlin";"Retail";1534;0.26;"2023-06-10";"Post-IPO";"Japan";1862
+"Atlassian";"Berlin";"Retail";1623;0.32;"2023-07-21";"Series A";"France";7116
+"Atlassian";"Berlin";"Tech";336;0.43;"2023-01-15";"Unknown";"France";7180
+"Atlassian";"Berlin";"Tech";1507;0.18;"2023-02-08";"Series B";"United States";5978
+"Atlassian";"Berlin";"Tech";1693;0.02;"2023-08-07";"Unknown";"Nigeria";7502
+"Atlassian";"Ibadan";"Automotive";1874;0.36;"2023-01-14";"Pre-IPO";"France";3890
+"Atlassian";"Ibadan";"Energy";71;0.35;"2023-07-08";"Unknown";"Nigeria";4718
+"Atlassian";"Ibadan";"Energy";203;0.19;"2023-01-15";"Series B";"Nigeria";6923
+"Atlassian";"Ibadan";"Energy";1604;0.03;"2023-01-06";"Startup";"Brazil";9924
+"Atlassian";"Ibadan";"Energy";1995;0.02;"2023-07-18";"Post-IPO";"Canada";3490
+"Atlassian";"Ibadan";"Healthcare";812;0.24;"2023-06-11";"Series A";"United States";5264
+"Atlassian";"Ibadan";"Media";1751;0.05;"2023-05-25";"Startup";"Germany";9472
+"Atlassian";"Ibadan";"Real Estate";592;0.41;"2023-01-10";"Series A";"Germany";9938
+"Atlassian";"Ibadan";"Tech";916;0.18;"2023-03-24";"Unknown";"UK";3867
+"Atlassian";"London";"Automotive";1239;0.29;"2023-11-23";"Unknown";"UK";5163
+"Atlassian";"London";"Education";296;0.09;"2023-04-14";"Post-IPO";"UK";1753
+"Atlassian";"London";"Education";778;0.4;"2023-03-03";"Startup";"India";3089
+"Atlassian";"London";"Education";1667;0.18;"2023-11-04";"Pre-IPO";"India";7223
+"Atlassian";"London";"Energy";137;0.37;"2023-08-19";"Unknown";"France";8455
+"Atlassian";"London";"Energy";529;0.11;"2023-06-12";"Series A";"Canada";8962
+"Atlassian";"London";"Energy";992;0.45;"2023-01-15";"Post-IPO";"Germany";9232
+"Atlassian";"London";"Finance";328;0.49;"2023-05-11";"Unknown";"Australia";4920
+"Atlassian";"London";"Healthcare";989;0.05;"2023-02-19";"Series B";"Brazil";7810
+"Atlassian";"London";"Healthcare";1932;0.37;"2023-07-18";"Series A";"Canada";5133
+"Atlassian";"London";"Manufacturing";1032;0.39;"2023-02-20";"Post-IPO";"United States";6634
+"Atlassian";"London";"Manufacturing";1152;0.19;"2023-04-09";"Post-IPO";"Canada";9188
+"Atlassian";"London";"Manufacturing";1672;0.13;"2023-01-27";"Pre-IPO";"United States";9714
+"Atlassian";"London";"Real Estate";1662;0.47;"2023-06-02";"Unknown";"Canada";3121
+"Atlassian";"Bombay";"Energy";1893;0.15;"2023-11-19";"Pre-IPO";"Canada";850
+"Atlassian";"Bombay";"Manufacturing";1647;0.07;"2023-02-21";"Pre-IPO";"France";8417
+"Atlassian";"Bombay";"Media";385;0.31;"2023-10-27";"Series B";"Japan";3658
+"Atlassian";"Bombay";"Tech";303;0.27;"2023-12-07";"Unknown";"UK";7824
+"Atlassian";"Bombay";"Tech";453;0.3;"2023-09-07";"Series A";"Canada";4535
+"Atlassian";"Bombay";"Tech";752;0.25;"2023-10-26";"Series B";"Nigeria";8089
+"Atlassian";"Bombay";"Tech";1457;0.16;"2023-09-04";"Series B";"France";1513
+"Atlassian";"New York City";"Automotive";1250;0.29;"2023-06-19";"Series B";"France";9708
+"Atlassian";"New York City";"Energy";382;0.15;"2023-11-27";"Pre-IPO";"India";4947
+"Atlassian";"New York City";"Energy";1822;0.44;"2023-11-12";"Pre-IPO";"Germany";6914
+"Atlassian";"New York City";"Healthcare";687;0.12;"2023-01-04";"Series A";"Canada";9010
+"Atlassian";"New York City";"Real Estate";39;0.42;"2023-07-05";"Series B";"Canada";871
+"Atlassian";"New York City";"Retail";167;0.42;"2023-11-24";"Startup";"United States";1270
+"Atlassian";"New York City";"Retail";1569;0.47;"2023-03-27";"Unknown";"Canada";6939
+"Atlassian";"New York City";"Tech";1166;0.07;"2023-01-24";"Pre-IPO";"United States";265
+"Atlassian";"New York City";"Tech";1553;0.21;"2023-01-01";"Series B";"Japan";7136
+"Atlassian";"San Francisco";"Education";528;0.46;"2023-01-05";"Startup";"Australia";9961
+"Atlassian";"San Francisco";"Education";1322;0.34;"2023-09-03";"Post-IPO";"Japan";6851
+"Atlassian";"San Francisco";"Finance";145;0.16;"2023-12-21";"Pre-IPO";"Germany";8876
+"Atlassian";"San Francisco";"Finance";705;0.06;"2023-03-17";"Unknown";"UK";624
+"Atlassian";"San Francisco";"Healthcare";1639;0.34;"2023-07-15";"Pre-IPO";"Canada";7542
+"Atlassian";"San Francisco";"Manufacturing";1842;0.43;"2023-01-08";"Series B";"France";7149
+"Atlassian";"San Francisco";"Media";1223;0.45;"2023-07-22";"Pre-IPO";"Australia";8886
+"Atlassian";"San Francisco";"Media";1927;0.14;"2023-02-09";"Series A";"UK";8154
+"Atlassian";"San Francisco";"Retail";714;0.45;"2023-03-12";"Series B";"UK";7523
+"Atlassian";"Sao Paulo";"Healthcare";1273;0.03;"2023-02-25";"Startup";"United States";3682
+"Atlassian";"Sao Paulo";"Healthcare";1925;0.3;"2023-01-10";"Unknown";"United States";4618
+"Atlassian";"Sao Paulo";"Retail";235;0.27;"2023-08-03";"Startup";"Japan";8955
+"Atlassian";"Sao Paulo";"Retail";890;0.29;"2023-09-05";"Post-IPO";"Australia";5478
+"Atlassian";"Sao Paulo";"Tech";416;0.49;"2023-07-17";"Series B";"Germany";5960
+"Atlassian";"Sao Paulo";"Tech";1270;0.13;"2023-03-20";"Unknown";"Nigeria";5105
+"Atlassian";"Sydney";"Education";97;0.47;"2023-01-15";"Series B";"Brazil";3603
+"Atlassian";"Sydney";"Education";1474;0.08;"2023-01-05";"Unknown";"UK";4911
+"Atlassian";"Sydney";"Education";1636;0.36;"2023-09-28";"Pre-IPO";"Brazil";7308
+"Atlassian";"Sydney";"Energy";339;0.23;"2023-09-20";"Post-IPO";"United States";9308
+"Atlassian";"Sydney";"Energy";1093;0.33;"2023-10-11";"Series B";"Brazil";9534
+"Atlassian";"Sydney";"Energy";1138;0.17;"2023-05-09";"Series A";"Brazil";3913
+"Atlassian";"Sydney";"Energy";1692;0.12;"2023-12-13";"Series A";"Japan";9260
+"Atlassian";"Sydney";"Manufacturing";1926;0.41;"2023-03-07";"Series B";"India";5213
+"Atlassian";"Sydney";"Retail";11;0.4;"2023-07-11";"Series B";"India";1177
+"Atlassian";"Sydney";"Tech";13;0.26;"2023-10-05";"Post-IPO";"Canada";4021
+"Atlassian";"Sydney";"Tech";647;0.49;"2023-09-01";"Post-IPO";"Germany";1467
+"Atlassian";"Tokyo";"Automotive";1063;0.06;"2023-10-20";"Unknown";"Australia";2787
+"Atlassian";"Tokyo";"Finance";1805;0.46;"2023-12-18";"Startup";"Nigeria";9069
+"Atlassian";"Tokyo";"Media";480;0.05;"2023-07-01";"Unknown";"Brazil";2800
+"Atlassian";"Tokyo";"Media";1480;0.44;"2023-08-02";"Series A";"Nigeria";7264
+"Atlassian";"Tokyo";"Media";1891;0.27;"2023-04-26";"Series B";"India";9941
+"Atlassian";"Tokyo";"Media";1904;0.01;"2023-11-24";"Pre-IPO";"Germany";6472
+"Atlassian";"Tokyo";"Retail";244;0.14;"2023-06-11";"Startup";"Canada";9373
+"Atlassian";"Tokyo";"Retail";1490;0.01;"2023-05-16";"Unknown";"Nigeria";3404
+"Atlassian";"Toronto";"Automotive";1454;0.1;"2023-01-11";"Post-IPO";"Germany";3571
+"Atlassian";"Toronto";"Education";213;0.46;"2023-07-20";"Series B";"United States";6905
+"Atlassian";"Toronto";"Education";967;0.04;"2023-01-05";"Pre-IPO";"Australia";6475
+"Atlassian";"Toronto";"Energy";1312;0.34;"2023-04-15";"Startup";"Canada";2846
+"Atlassian";"Toronto";"Energy";1356;0.14;"2023-06-17";"Unknown";"Canada";4394
+"Atlassian";"Toronto";"Energy";1857;0.14;"2023-05-16";"Startup";"Germany";89
+"Atlassian";"Toronto";"Manufacturing";1383;0.01;"2023-05-20";"Series A";"Nigeria";5843
+"Atlassian";"Toronto";"Real Estate";1818;0.08;"2023-03-11";"Post-IPO";"Australia";1338
+"Atlassian";"Toronto";"Tech";1430;0.39;"2023-11-11";"Post-IPO";"Germany";6018
+"Atlassian";"Toronto";"Tech";1669;0.11;"2023-08-08";"Startup";"UK";7051
+"Facebook";"Berlin";"Automotive";1546;0.46;"2023-06-01";"Pre-IPO";"Brazil";151
+"Facebook";"Berlin";"Education";509;0.1;"2023-03-21";"Series A";"Japan";1763
+"Facebook";"Berlin";"Energy";391;0.19;"2023-11-10";"Pre-IPO";"Germany";9097
+"Facebook";"Berlin";"Healthcare";1914;0.41;"2023-11-22";"Startup";"Germany";7910
+"Facebook";"Berlin";"Manufacturing";194;0.04;"2023-04-04";"Post-IPO";"Germany";9977
+"Facebook";"Berlin";"Manufacturing";977;0.19;"2023-12-22";"Unknown";"Australia";2601
+"Facebook";"Berlin";"Manufacturing";1808;0.49;"2023-03-20";"Post-IPO";"Germany";5744
+"Facebook";"Berlin";"Media";1329;0.39;"2023-09-27";"Series B";"Nigeria";80
+"Facebook";"Berlin";"Media";1917;0.18;"2023-01-08";"Series B";"France";913
+"Facebook";"Berlin";"Real Estate";1329;0.16;"2023-12-06";"Series B";"France";7756
+"Facebook";"Berlin";"Real Estate";1393;0.16;"2023-03-03";"Unknown";"Australia";5541
+"Facebook";"Berlin";"Real Estate";1461;0.23;"2023-02-19";"Post-IPO";"Canada";4168
+"Facebook";"Berlin";"Retail";727;0.42;"2023-12-24";"Post-IPO";"Brazil";6590
+"Facebook";"Berlin";"Tech";1253;0.3;"2023-01-21";"Series A";"Nigeria";8733
+"Facebook";"Ibadan";"Automotive";63;0.42;"2023-12-18";"Post-IPO";"Germany";9380
+"Facebook";"Ibadan";"Automotive";109;0.29;"2023-04-06";"Series A";"India";3839
+"Facebook";"Ibadan";"Automotive";1038;0.46;"2023-09-15";"Series A";"Nigeria";7507
+"Facebook";"Ibadan";"Education";1358;0.2;"2023-08-04";"Series A";"France";2601
+"Facebook";"Ibadan";"Education";1451;0.27;"2023-03-22";"Pre-IPO";"Japan";1704
+"Facebook";"Ibadan";"Energy";526;0.47;"2023-03-14";"Pre-IPO";"Brazil";452
+"Facebook";"Ibadan";"Finance";773;0.11;"2023-03-25";"Unknown";"Germany";2408
+"Facebook";"Ibadan";"Healthcare";768;0.14;"2023-11-12";"Unknown";"Australia";873
+"Facebook";"Ibadan";"Manufacturing";1879;0.33;"2023-02-27";"Startup";"Nigeria";5127
+"Facebook";"Ibadan";"Real Estate";459;0.17;"2023-02-20";"Startup";"UK";890
+"Facebook";"Ibadan";"Real Estate";816;0.29;"2023-02-08";"Post-IPO";"UK";2788
+"Facebook";"Ibadan";"Retail";1851;0.18;"2023-10-27";"Pre-IPO";"India";9190
+"Facebook";"Ibadan";"Tech";1288;0.41;"2023-10-19";"Series A";"France";8951
+"Facebook";"London";"Automotive";700;0.2;"2023-05-18";"";"UK";5645
+"Facebook";"London";"Automotive";866;0.34;"2023-07-25";"Post-IPO";"Germany";4495
+"Facebook";"London";"Automotive";1545;0.42;"2023-02-11";"Post-IPO";"Germany";1895
+"Facebook";"London";"Automotive";1965;0.38;"2023-07-17";"Unknown";"Brazil";7831
+"Facebook";"London";"Healthcare";1189;0.09;"2023-03-24";"Series B";"France";8769
+"Facebook";"London";"Manufacturing";997;0.21;"2023-09-15";"Unknown";"Brazil";3515
+"Facebook";"London";"Real Estate";609;0.16;"2023-10-13";"Series B";"Canada";2595
+"Facebook";"London";"Real Estate";1203;0.37;"2023-05-16";"Post-IPO";"United States";8921
+"Facebook";"London";"Retail";753;0.23;"2023-01-22";"Pre-IPO";"Canada";4804
+"Facebook";"London";"Retail";827;0.4;"2023-06-24";"Series A";"Canada";1215
+"Facebook";"Bombay";"Automotive";486;0.29;"2023-07-20";"Startup";"India";542
+"Facebook";"Bombay";"Automotive";691;0.1;"2023-12-20";"Post-IPO";"Germany";1440
+"Facebook";"Bombay";"Automotive";1878;0.26;"2023-07-16";"Series B";"United States";7028
+"Facebook";"Bombay";"Energy";1198;0.06;"2023-08-26";"Series B";"India";8412
+"Facebook";"Bombay";"Energy";1810;0.17;"2023-07-20";"Post-IPO";"India";5780
+"Facebook";"Bombay";"Finance";227;0.43;"2023-05-08";"Startup";"France";4186
+"Facebook";"Bombay";"Finance";1904;0.13;"2023-03-03";"Series A";"Australia";1593
+"Facebook";"Bombay";"Healthcare";1112;0.3;"2023-10-03";"Series B";"Canada";5475
+"Facebook";"Bombay";"Healthcare";1973;0.47;"2023-11-28";"Unknown";"Germany";8935
+"Facebook";"Bombay";"Media";1559;0.21;"2023-08-28";"Series B";"India";470
+"Facebook";"Bombay";"Real Estate";1043;0.08;"2023-09-22";"Series B";"Australia";2676
+"Facebook";"Bombay";"Real Estate";1718;0.22;"2023-12-16";"Post-IPO";"Nigeria";4685
+"Facebook";"Bombay";"Retail";1193;0.28;"2023-10-12";"Post-IPO";"Germany";618
+"Facebook";"Bombay";"Tech";1630;0.31;"2023-09-20";"Series A";"Nigeria";7400
+"Facebook";"New York City";"Automotive";734;0.24;"2023-03-18";"Pre-IPO";"Japan";9706
+"Facebook";"New York City";"Education";843;0.45;"2023-11-27";"Unknown";"UK";9098
+"Facebook";"New York City";"Energy";442;0.15;"2023-10-03";"Series B";"France";1757
+"Facebook";"New York City";"Finance";183;0.23;"2023-04-05";"Unknown";"Japan";4396
+"Facebook";"New York City";"Finance";287;0.29;"2023-08-09";"Startup";"Brazil";277
+"Facebook";"New York City";"Finance";344;0.11;"2023-05-28";"Series A";"Nigeria";8506
+"Facebook";"New York City";"Healthcare";22;0.49;"2023-12-07";"Series A";"Canada";6117
+"Facebook";"New York City";"Healthcare";423;0.34;"2023-06-07";"Post-IPO";"Germany";8388
+"Facebook";"New York City";"Manufacturing";47;0.43;"2023-02-17";"Unknown";"Brazil";9615
+"Facebook";"New York City";"Real Estate";653;0.11;"2023-06-04";"Post-IPO";"Canada";4258
+"Facebook";"New York City";"Real Estate";696;0.31;"2023-01-21";"Unknown";"Brazil";1357
+"Facebook";"New York City";"Real Estate";1891;0.08;"2023-09-09";"Series A";"UK";1840
+"Facebook";"New York City";"Tech";91;0.45;"2023-11-12";"Unknown";"Japan";8532
+"Facebook";"San Francisco";"Automotive";808;0.12;"2023-10-27";"Series A";"UK";9243
+"Facebook";"San Francisco";"Education";509;0.39;"2023-10-02";"Post-IPO";"Nigeria";7786
+"Facebook";"San Francisco";"Energy";58;0.1;"2023-04-04";"Post-IPO";"United States";7817
+"Facebook";"San Francisco";"Energy";92;0.39;"2023-09-12";"Series B";"UK";4596
+"Facebook";"San Francisco";"Energy";511;0.31;"2023-10-17";"Startup";"Brazil";255
+"Facebook";"San Francisco";"Energy";1751;0.39;"2023-06-11";"Series B";"Nigeria";5131
+"Facebook";"San Francisco";"Finance";1979;0.37;"2023-05-05";"Series B";"Brazil";653
+"Facebook";"San Francisco";"Healthcare";1194;0.3;"2023-04-05";"Unknown";"Canada";6854
+"Facebook";"San Francisco";"Healthcare";1652;0.16;"2023-12-23";"Startup";"India";6044
+"Facebook";"San Francisco";"Manufacturing";125;0.18;"2023-02-11";"Unknown";"India";9755
+"Facebook";"San Francisco";"Real Estate";1012;0.14;"2023-09-03";"Series A";"Japan";7843
+"Facebook";"San Francisco";"Retail";681;0.47;"2023-09-20";"Series A";"United States";8281
+"Facebook";"San Francisco";"Retail";848;0.08;"2023-10-22";"Startup";"Brazil";6960
+"Facebook";"San Francisco";"Retail";1619;0.08;"2023-08-10";"Startup";"Japan";5307
+"Facebook";"San Francisco";"Tech";1636;0.1;"2023-09-26";"Series A";"Germany";7320
+"Facebook";"San Francisco";"Tech";1966;0.18;"2023-06-22";"Startup";"UK";531
+"Facebook";"Sao Paulo";"Automotive";1760;0.32;"2023-09-01";"Unknown";"Canada";8050
+"Facebook";"Sao Paulo";"Energy";1602;0.4;"2023-08-19";"Series A";"Germany";5593
+"Facebook";"Sao Paulo";"Finance";598;0.08;"2023-03-24";"Series B";"France";229
+"Facebook";"Sao Paulo";"Healthcare";494;0.32;"2023-03-24";"Series B";"France";3278
+"Facebook";"Sao Paulo";"Manufacturing";1638;0.35;"2023-05-26";"Pre-IPO";"UK";9098
+"Facebook";"Sao Paulo";"Manufacturing";1716;0.09;"2023-11-02";"Post-IPO";"Nigeria";9192
+"Facebook";"Sao Paulo";"Manufacturing";1932;0.19;"2023-03-24";"Series B";"France";9232
+"Facebook";"Sao Paulo";"Media";1561;0.25;"2023-01-22";"Startup";"UK";7204
+"Facebook";"Sao Paulo";"Real Estate";1942;0.37;"2023-07-19";"Pre-IPO";"Canada";2925
+"Facebook";"Sao Paulo";"Retail";464;0.49;"2023-06-28";"Post-IPO";"Japan";3248
+"Facebook";"Sydney";"Automotive";141;0.5;"2023-01-08";"Post-IPO";"United States";6339
+"Facebook";"Sydney";"Energy";1858;0.06;"2023-11-11";"Startup";"Nigeria";2510
+"Facebook";"Sydney";"Finance";1494;0.01;"2023-01-23";"Unknown";"Japan";5478
+"Facebook";"Sydney";"Healthcare";1072;0.1;"2023-08-22";"Series B";"Brazil";9361
+"Facebook";"Sydney";"Healthcare";1385;0.13;"2023-08-07";"Series A";"Brazil";6184
+"Facebook";"Sydney";"Media";72;0.45;"2023-09-03";"Unknown";"Japan";5830
+"Facebook";"Sydney";"Media";474;0.31;"2023-08-09";"Startup";"Germany";5659
+"Facebook";"Sydney";"Real Estate";1335;0.25;"2023-08-25";"Unknown";"Australia";3858
+"Facebook";"Sydney";"Real Estate";1962;0.04;"2023-09-03";"Post-IPO";"Canada";856
+"Facebook";"Sydney";"Tech";1627;0.25;"2023-04-13";"Post-IPO";"UK";6233
+"Facebook";"Tokyo";"Automotive";49;0.34;"2023-12-21";"Startup";"Japan";7437
+"Facebook";"Tokyo";"Automotive";802;0.23;"2023-01-01";"Startup";"Nigeria";345
+"Facebook";"Tokyo";"Education";1660;0.46;"2023-01-09";"Unknown";"UK";7525
+"Facebook";"Tokyo";"Media";338;0.28;"2023-10-08";"Post-IPO";"United States";7418
+"Facebook";"Tokyo";"Real Estate";108;0.03;"2023-01-11";"Series B";"India";549
+"Facebook";"Tokyo";"Real Estate";423;0.22;"2023-12-15";"Series B";"Brazil";4731
+"Facebook";"Tokyo";"Retail";1403;0.03;"2023-08-25";"Unknown";"Australia";1720
+"Facebook";"Tokyo";"Tech";516;0.28;"2023-03-26";"Unknown";"France";8475
+"Facebook";"Tokyo";"Tech";1414;0.49;"2023-07-21";"Unknown";"Nigeria";1419
+"Facebook";"Toronto";"Automotive";646;0.13;"2023-12-28";"Startup";"India";469
+"Facebook";"Toronto";"Energy";184;0.45;"2023-11-02";"Series B";"Canada";8868
+"Facebook";"Toronto";"Finance";50;0.13;"2023-11-27";"Unknown";"Japan";6778
+"Facebook";"Toronto";"Finance";262;0.06;"2023-12-07";"Pre-IPO";"UK";7890
+"Facebook";"Toronto";"Finance";1346;0.2;"2023-06-20";"Series B";"United States";7555
+"Facebook";"Toronto";"Finance";1532;0.41;"2023-05-26";"Pre-IPO";"United States";867
+"Facebook";"Toronto";"Healthcare";1147;0.28;"2023-04-20";"Series A";"Japan";2388
+"Facebook";"Toronto";"Manufacturing";1323;0.26;"2023-07-03";"Series A";"United States";6070
+"Facebook";"Toronto";"Real Estate";1271;0.38;"2023-04-18";"Pre-IPO";"Canada";5608
+"Facebook";"Toronto";"Retail";1855;0.15;"2023-08-19";"Series B";"India";2066
+"Facebook";"Toronto";"Tech";439;0.01;"2023-11-24";"Startup";"France";2528
+"Google";"";"Tech";0;0.1;"";"Pre-IPO";"";10000
+"Google";"Berlin";"Automotive";680;0.45;"2023-06-07";"Series B";"Canada";8514
+"Google";"Berlin";"Automotive";908;0.31;"2023-02-20";"Post-IPO";"United States";4999
+"Google";"Berlin";"Education";296;0.12;"2023-01-02";"Unknown";"France";2906
+"Google";"Berlin";"Education";1746;0.26;"2023-02-19";"Pre-IPO";"Australia";8517
+"Google";"Berlin";"Education";1835;0.47;"2023-01-08";"Startup";"United States";2889
+"Google";"Berlin";"Finance";1128;0.1;"2023-06-11";"Startup";"India";3842
+"Google";"Berlin";"Manufacturing";1742;0.21;"2023-02-14";"Series A";"Germany";1843
+"Google";"Berlin";"Manufacturing";1948;0.31;"2023-11-27";"Post-IPO";"Germany";3894
+"Google";"Berlin";"Real Estate";1626;0.05;"2023-03-08";"Unknown";"Australia";1523
+"Google";"Berlin";"Real Estate";1638;0.23;"2023-03-04";"Unknown";"Canada";9589
+"Google";"Berlin";"Tech";719;0.4;"2023-11-15";"Post-IPO";"Australia";8095
+"Google";"Berlin";"Tech";886;0.14;"2023-10-02";"Series A";"India";7585
+"Google";"Ibadan";"Automotive";414;0.1;"2023-03-01";"Series A";"Germany";63
+"Google";"Ibadan";"Manufacturing";358;0.03;"2023-02-28";"Pre-IPO";"Japan";2282
+"Google";"Ibadan";"Manufacturing";494;0.5;"2023-04-27";"Post-IPO";"Germany";3552
+"Google";"Ibadan";"Manufacturing";1132;0.36;"2023-11-14";"Series B";"Canada";9821
+"Google";"Ibadan";"Media";988;0.25;"2023-04-01";"Pre-IPO";"UK";7658
+"Google";"Ibadan";"Retail";236;0.29;"2023-11-05";"Series B";"Germany";3590
+"Google";"Ibadan";"Tech";1087;0.47;"2023-03-19";"Series A";"Canada";7325
+"Google";"London";"Automotive";1203;0.37;"2023-08-24";"Unknown";"Brazil";6636
+"Google";"London";"Energy";1429;0.47;"2023-12-20";"Series A";"Canada";627
+"Google";"London";"Finance";1640;0.18;"2023-02-05";"Series B";"United States";5474
+"Google";"London";"Healthcare";1247;0.27;"2023-05-24";"Post-IPO";"France";266
+"Google";"London";"Retail";1243;0.19;"2023-07-20";"Post-IPO";"India";5488
+"Google";"London";"Retail";1869;0.15;"2023-11-09";"Unknown";"France";9470
+"Google";"London";"Tech";830;0.32;"2023-05-02";"Unknown";"France";5244
+"Google";"London";"Tech";1537;0.21;"2023-02-12";"Startup";"India";5337
+"Google";"Bombay";"Automotive";944;0.33;"2023-12-22";"Startup";"Australia";4900
+"Google";"Bombay";"Healthcare";661;0.16;"2023-12-19";"Startup";"India";1729
+"Google";"Bombay";"Healthcare";813;0.48;"2023-07-28";"Post-IPO";"United States";3548
+"Google";"Bombay";"Healthcare";1281;0.15;"2023-04-04";"Startup";"Germany";9874
+"Google";"Bombay";"Media";248;0.35;"2023-12-19";"Pre-IPO";"Germany";3000
+"Google";"Bombay";"Media";368;0.37;"2023-03-27";"Post-IPO";"India";6155
+"Google";"Bombay";"Media";784;0.15;"2023-09-16";"Series B";"Germany";2375
+"Google";"Bombay";"Media";879;0.11;"2023-01-16";"Unknown";"Canada";6861
+"Google";"Bombay";"Media";1267;0.09;"2023-04-27";"Pre-IPO";"UK";804
+"Google";"Bombay";"Real Estate";1521;0.37;"2023-02-01";"Unknown";"Brazil";977
+"Google";"Bombay";"Real Estate";1996;0.35;"2023-02-14";"Series B";"Germany";2535
+"Google";"Bombay";"Retail";189;0.11;"2023-01-09";"Series B";"Canada";8718
+"Google";"Bombay";"Retail";1568;0.43;"2023-07-22";"Unknown";"Nigeria";381
+"Google";"Bombay";"Tech";1452;0.42;"2023-05-27";"Startup";"India";8928
+"Google";"New York City";"Automotive";436;0.1;"2023-01-14";"Post-IPO";"France";1169
+"Google";"New York City";"Energy";1058;0.23;"2023-10-18";"Pre-IPO";"Germany";859
+"Google";"New York City";"Real Estate";49;0.18;"2023-10-18";"Series A";"Japan";9131
+"Google";"New York City";"Real Estate";177;0.07;"2023-06-20";"Startup";"Nigeria";7341
+"Google";"New York City";"Real Estate";980;0.48;"2023-08-15";"Post-IPO";"Canada";5880
+"Google";"New York City";"Retail";455;0.18;"2023-07-25";"Pre-IPO";"United States";2814
+"Google";"New York City";"Tech";442;0.29;"2023-05-26";"Post-IPO";"France";5523
+"Google";"San Francisco";"Automotive";183;0.05;"2023-11-18";"Series B";"Nigeria";8348
+"Google";"San Francisco";"Energy";724;0.31;"2023-07-12";"Post-IPO";"Australia";3619
+"Google";"San Francisco";"Finance";1611;0.07;"2023-10-26";"Pre-IPO";"United States";1873
+"Google";"San Francisco";"Healthcare";39;0.43;"2023-06-09";"Pre-IPO";"Canada";5626
+"Google";"San Francisco";"Healthcare";72;0.29;"2023-03-02";"Pre-IPO";"India";2884
+"Google";"San Francisco";"Healthcare";367;0.18;"2023-06-10";"Series A";"Japan";6145
+"Google";"San Francisco";"Healthcare";1544;0.34;"2023-12-20";"Series A";"India";6880
+"Google";"San Francisco";"Manufacturing";1547;0.5;"2023-04-24";"Series A";"Japan";7073
+"Google";"San Francisco";"Media";1712;0.08;"2023-09-18";"Post-IPO";"UK";7928
+"Google";"San Francisco";"Retail";170;0.33;"2023-12-08";"Pre-IPO";"Germany";733
+"Google";"San Francisco";"Retail";837;0.27;"2023-09-28";"Series B";"UK";801
+"Google";"San Francisco";"Retail";1204;0.48;"2023-02-23";"Post-IPO";"France";6491
+"Google";"San Francisco";"Retail";1668;0.33;"2023-08-19";"Pre-IPO";"UK";4289
+"Google";"San Francisco";"Retail";1920;0.3;"2023-04-01";"Unknown";"United States";3613
+"Google";"Sao Paulo";"Automotive";1169;0.23;"2023-03-05";"Post-IPO";"Brazil";3099
+"Google";"Sao Paulo";"Education";1691;0.26;"2023-02-21";"Series B";"Japan";1560
+"Google";"Sao Paulo";"Finance";361;0.21;"2023-02-14";"Unknown";"Australia";7251
+"Google";"Sao Paulo";"Healthcare";1948;0.44;"2023-03-20";"Post-IPO";"Nigeria";8268
+"Google";"Sao Paulo";"Media";1977;0.38;"2023-03-24";"Post-IPO";"Nigeria";1071
+"Google";"Sao Paulo";"Real Estate";1757;0.37;"2023-11-16";"Pre-IPO";"Canada";5000
+"Google";"Sao Paulo";"Retail";1501;0.33;"2023-07-04";"Series A";"Brazil";6286
+"Google";"Sao Paulo";"Retail";1691;0.03;"2023-01-04";"Post-IPO";"UK";2426
+"Google";"Sao Paulo";"Tech";1927;0.35;"2023-10-09";"Unknown";"UK";5059
+"Google";"Sydney";"Energy";1177;0.16;"2023-05-18";"Unknown";"Japan";3703
+"Google";"Sydney";"Energy";1537;0.28;"2023-07-05";"Startup";"Nigeria";4624
+"Google";"Sydney";"Finance";39;0.02;"2023-12-11";"Startup";"United States";369
+"Google";"Sydney";"Finance";1424;0.08;"2023-09-25";"Post-IPO";"Japan";3539
+"Google";"Sydney";"Finance";1531;0.09;"2023-08-07";"Startup";"Germany";3135
+"Google";"Sydney";"Real Estate";1747;0.17;"2023-10-11";"Post-IPO";"UK";4089
+"Google";"Sydney";"Retail";504;0.13;"2023-04-01";"Post-IPO";"Brazil";673
+"Google";"Sydney";"Retail";1701;0.17;"2023-12-15";"Unknown";"Brazil";5209
+"Google";"Tokyo";"Automotive";1649;0.24;"2023-11-04";"Series B";"United States";4695
+"Google";"Tokyo";"Education";563;0.2;"2023-03-19";"Unknown";"India";7244
+"Google";"Tokyo";"Energy";269;0.26;"2023-05-01";"Pre-IPO";"Germany";9692
+"Google";"Tokyo";"Energy";587;0.18;"2023-07-11";"Unknown";"Japan";2780
+"Google";"Tokyo";"Media";626;0.39;"2023-09-17";"Pre-IPO";"India";4443
+"Google";"Tokyo";"Media";655;0.35;"2023-05-22";"Post-IPO";"France";4403
+"Google";"Toronto";"Automotive";57;0.33;"2023-04-21";"Startup";"Australia";4621
+"Google";"Toronto";"Automotive";1121;0.5;"2023-04-24";"Series B";"Canada";2594
+"Google";"Toronto";"Education";1047;0.2;"2023-01-25";"Pre-IPO";"Japan";8826
+"Google";"Toronto";"Finance";859;0.04;"2023-01-14";"Unknown";"Canada";2530
+"Google";"Toronto";"Healthcare";358;0.33;"2023-07-11";"Startup";"Germany";5693
+"Google";"Toronto";"Healthcare";767;0.34;"2023-07-05";"Pre-IPO";"India";1741
+"Google";"Toronto";"Healthcare";1133;0.37;"2023-05-06";"Series A";"UK";6473
+"Google";"Toronto";"Healthcare";1894;0.15;"2023-03-11";"Startup";"Nigeria";7486
+"Google";"Toronto";"Media";348;0.33;"2023-06-23";"Series B";"Germany";3891
+"Google";"Toronto";"Media";723;0.46;"2023-09-15";"Pre-IPO";"Nigeria";1125
+"Google";"Toronto";"Media";1175;0.05;"2023-03-16";"Pre-IPO";"Brazil";9107
+"Google";"Toronto";"Real Estate";203;0.3;"2023-11-02";"Series A";"Nigeria";9896
+"Google";"Toronto";"Real Estate";464;0.26;"2023-10-12";"Series B";"UK";3776
+"Google";"Toronto";"Retail";472;0.31;"2023-01-23";"Pre-IPO";"Germany";697
+"Google";"Toronto";"Retail";1575;0.05;"2023-08-16";"Unknown";"Brazil";5076
+"Google";"Toronto";"Retail";1992;0.28;"2023-03-12";"Post-IPO";"Nigeria";9806
+"Loft";"Berlin";"Automotive";503;0.39;"2023-03-11";"Startup";"Brazil";8085
+"Loft";"Berlin";"Education";935;0.38;"2023-07-02";"Series B";"Australia";2128
+"Loft";"Berlin";"Energy";826;0.27;"2023-01-24";"Startup";"Germany";4319
+"Loft";"Berlin";"Energy";1050;0.43;"2023-06-05";"Series B";"UK";5779
+"Loft";"Berlin";"Healthcare";86;0.25;"2023-03-10";"Post-IPO";"India";2163
+"Loft";"Berlin";"Manufacturing";493;0.25;"2023-09-24";"Unknown";"UK";8043
+"Loft";"Berlin";"Real Estate";1520;0.39;"2023-10-21";"Post-IPO";"France";3753
+"Loft";"Berlin";"Retail";1261;0.06;"2023-09-24";"Startup";"Brazil";6973
+"Loft";"Berlin";"Retail";1709;0.44;"2023-12-02";"Startup";"Nigeria";9214
+"Loft";"Ibadan";"Education";88;0.49;"2023-04-06";"Post-IPO";"Nigeria";718
+"Loft";"Ibadan";"Finance";297;0.31;"2023-02-21";"Series B";"United States";9344
+"Loft";"Ibadan";"Tech";284;0.25;"2023-05-03";"Unknown";"Australia";4386
+"Loft";"Ibadan";"Tech";1644;0.28;"2023-07-12";"Startup";"India";1526
+"Loft";"London";"Automotive";194;0.15;"2023-04-13";"Unknown";"Canada";1183
+"Loft";"London";"Automotive";510;0.43;"2023-05-27";"Startup";"Brazil";3692
+"Loft";"London";"Education";1661;0.02;"2023-05-27";"Unknown";"France";9901
+"Loft";"London";"Finance";649;0.2;"2023-10-25";"Pre-IPO";"Canada";7773
+"Loft";"London";"Finance";1555;0.31;"2023-03-12";"Series A";"Canada";2875
+"Loft";"London";"Media";261;0.46;"2023-04-17";"Pre-IPO";"Australia";4763
+"Loft";"London";"Media";744;0.46;"2023-04-01";"Unknown";"Canada";453
+"Loft";"London";"Real Estate";173;0.09;"2023-01-04";"Post-IPO";"United States";2762
+"Loft";"London";"Real Estate";1114;0.22;"2023-09-04";"Post-IPO";"United States";5952
+"Loft";"London";"Retail";1911;0.22;"2023-06-04";"Unknown";"Brazil";5969
+"Loft";"Bombay";"Automotive";1396;0.01;"2023-02-10";"Unknown";"Germany";8696
+"Loft";"Bombay";"Automotive";1744;0.4;"2023-04-01";"Unknown";"Germany";2883
+"Loft";"Bombay";"Education";964;0.48;"2023-10-04";"Pre-IPO";"Brazil";1519
+"Loft";"Bombay";"Finance";1378;0.5;"2023-03-18";"Startup";"Canada";2756
+"Loft";"Bombay";"Finance";1652;0.2;"2023-10-14";"Post-IPO";"Canada";135
+"Loft";"Bombay";"Healthcare";1919;0.35;"2023-08-12";"Series A";"UK";6433
+"Loft";"Bombay";"Media";1473;0.06;"2023-03-22";"Series B";"Japan";8425
+"Loft";"Bombay";"Real Estate";30;0.37;"2023-09-02";"Series A";"Canada";275
+"Loft";"Bombay";"Real Estate";1879;0.36;"2023-03-27";"Post-IPO";"France";4401
+"Loft";"New York City";"Education";320;0.22;"2023-09-21";"Unknown";"Japan";9935
+"Loft";"New York City";"Energy";1170;0.46;"2023-06-16";"Startup";"Australia";3965
+"Loft";"New York City";"Finance";526;0.09;"2023-03-18";"Series B";"India";1659
+"Loft";"New York City";"Finance";1469;0.21;"2023-05-21";"Unknown";"India";1308
+"Loft";"New York City";"Healthcare";11;0.03;"2023-10-18";"Post-IPO";"United States";5854
+"Loft";"New York City";"Manufacturing";1117;0.47;"2023-09-18";"Post-IPO";"Japan";8020
+"Loft";"New York City";"Media";1029;0.17;"2023-02-08";"Series B";"Australia";3089
+"Loft";"New York City";"Real Estate";317;0.15;"2023-12-10";"Startup";"Nigeria";5260
+"Loft";"New York City";"Retail";164;0.48;"2023-08-12";"Unknown";"India";3926
+"Loft";"San Francisco";"Automotive";348;0.44;"2023-11-07";"Pre-IPO";"Brazil";3781
+"Loft";"San Francisco";"Education";226;0.41;"2023-09-16";"Pre-IPO";"France";5377
+"Loft";"San Francisco";"Energy";584;0.05;"2023-05-22";"Series B";"India";5872
+"Loft";"San Francisco";"Finance";1907;0.21;"2023-03-18";"Unknown";"Brazil";3137
+"Loft";"San Francisco";"Healthcare";1433;0.08;"2023-06-02";"Pre-IPO";"UK";9557
+"Loft";"San Francisco";"Manufacturing";636;0.03;"2023-09-01";"Post-IPO";"Japan";4427
+"Loft";"San Francisco";"Manufacturing";1766;0.18;"2023-02-20";"Series B";"Germany";3465
+"Loft";"San Francisco";"Retail";823;0.4;"2023-09-28";"Startup";"United States";5354
+"Loft";"San Francisco";"Retail";1612;0.13;"2023-11-22";"Unknown";"Japan";2194
+"Loft";"San Francisco";"Tech";726;0.08;"2023-05-04";"Post-IPO";"Germany";3804
+"Loft";"San Francisco";"Tech";1279;0.08;"2023-04-09";"Unknown";"Canada";390
+"Loft";"Sao Paulo";"Energy";840;0.27;"2023-10-22";"Post-IPO";"Brazil";7474
+"Loft";"Sao Paulo";"Healthcare";951;0.36;"2023-03-09";"Pre-IPO";"Nigeria";137
+"Loft";"Sao Paulo";"Healthcare";1235;0.09;"2023-07-02";"Series B";"Australia";939
+"Loft";"Sao Paulo";"Media";1468;0.28;"2023-01-19";"Series B";"Australia";6136
+"Loft";"Sao Paulo";"Real Estate";1014;0.48;"2023-02-01";"Pre-IPO";"UK";1470
+"Loft";"Sao Paulo";"Tech";1961;0.37;"2023-08-21";"Startup";"United States";5722
+"Loft";"Sydney";"Automotive";1109;0.22;"2023-11-11";"Unknown";"Germany";3647
+"Loft";"Sydney";"Education";862;0.14;"2023-06-15";"Pre-IPO";"France";2312
+"Loft";"Sydney";"Energy";579;0.33;"2023-10-13";"Series B";"Germany";3132
+"Loft";"Sydney";"Energy";1557;0.47;"2023-02-20";"Pre-IPO";"Nigeria";4915
+"Loft";"Sydney";"Finance";1006;0.24;"2023-05-05";"Post-IPO";"Japan";9962
+"Loft";"Sydney";"Finance";1442;0.29;"2023-06-24";"Series B";"Germany";2322
+"Loft";"Sydney";"Healthcare";821;0.46;"2023-11-23";"Series A";"Nigeria";2994
+"Loft";"Sydney";"Manufacturing";10;0.26;"2023-02-18";"Series B";"Australia";485
+"Loft";"Sydney";"Media";1818;0.21;"2023-06-16";"Series A";"Australia";8592
+"Loft";"Tokyo";"Energy";909;0.07;"2023-04-04";"Startup";"Australia";2437
+"Loft";"Tokyo";"Finance";874;0.27;"2023-12-17";"Startup";"United States";6129
+"Loft";"Tokyo";"Finance";1197;0.31;"2023-01-11";"Series A";"Germany";8984
+"Loft";"Tokyo";"Finance";1320;0.21;"2023-08-01";"Post-IPO";"Australia";440
+"Loft";"Tokyo";"Finance";1357;0.23;"2023-12-21";"Post-IPO";"Brazil";5868
+"Loft";"Tokyo";"Healthcare";378;0.08;"2023-02-02";"Series B";"Brazil";2303
+"Loft";"Tokyo";"Manufacturing";1261;0.29;"2023-10-01";"Series B";"Brazil";1245
+"Loft";"Tokyo";"Media";502;0.28;"2023-10-03";"Series B";"Nigeria";3461
+"Loft";"Tokyo";"Retail";1200;0.28;"2023-10-12";"Pre-IPO";"UK";5228
+"Loft";"Tokyo";"Tech";476;0.19;"2023-02-04";"Post-IPO";"Japan";1062
+"Loft";"Toronto";"Automotive";1970;0.13;"2023-02-28";"Unknown";"Germany";5949
+"Loft";"Toronto";"Education";523;0.04;"2023-10-02";"Unknown";"Japan";454
+"Loft";"Toronto";"Education";1786;0.43;"2023-07-27";"Unknown";"Brazil";3141
+"Loft";"Toronto";"Finance";333;0.44;"2023-11-08";"Series A";"Canada";1680
+"Loft";"Toronto";"Finance";705;0.29;"2023-05-18";"Unknown";"France";5093
+"Loft";"Toronto";"Finance";1455;0.33;"2023-07-02";"Series B";"Canada";6372
+"Loft";"Toronto";"Finance";1990;0.14;"2023-05-15";"Unknown";"Australia";5364
+"Loft";"Toronto";"Healthcare";1760;0.01;"2023-12-15";"Series A";"Germany";387
+"Loft";"Toronto";"Media";1878;0.03;"2023-08-08";"Post-IPO";"Brazil";1913
+"Loft";"Toronto";"Media";1972;0.33;"2023-08-22";"Series B";"Australia";7830
+"Loft";"Toronto";"Real Estate";1175;0.15;"2023-12-26";"Pre-IPO";"Australia";2734
+"Loft";"Toronto";"Tech";497;0.03;"2023-09-14";"Series A";"Brazil";7116
+"Loft";"Toronto";"Tech";1089;0.5;"2023-09-12";"Post-IPO";"Canada";1061
+"Netflix";"Berlin";"Education";605;0.35;"2023-05-23";"Unknown";"Japan";8226
+"Netflix";"Berlin";"Education";991;0.44;"2023-09-20";"Pre-IPO";"Australia";5946
+"Netflix";"Berlin";"Energy";1110;0.14;"2023-06-20";"Series A";"United States";2569
+"Netflix";"Berlin";"Energy";1495;0.28;"2023-11-22";"Post-IPO";"UK";2785
+"Netflix";"Berlin";"Finance";622;0.19;"2023-10-20";"Pre-IPO";"United States";5059
+"Netflix";"Berlin";"Finance";798;0.33;"2023-03-04";"Startup";"Australia";8629
+"Netflix";"Berlin";"Finance";1387;0.27;"2023-01-06";"Unknown";"India";5093
+"Netflix";"Berlin";"Healthcare";1872;0.3;"2023-05-04";"Post-IPO";"United States";9641
+"Netflix";"Berlin";"Manufacturing";200;0.22;"2023-08-28";"Series A";"Japan";9606
+"Netflix";"Berlin";"Manufacturing";1503;0.46;"2023-02-05";"Post-IPO";"Japan";5319
+"Netflix";"Berlin";"Media";858;0.15;"2023-09-18";"Post-IPO";"Japan";8553
+"Netflix";"Berlin";"Retail";1931;0.18;"2023-01-25";"Series B";"India";5227
+"Netflix";"Ibadan";"Automotive";989;0.03;"2023-03-26";"Pre-IPO";"UK";839
+"Netflix";"Ibadan";"Energy";1594;0.28;"2023-03-03";"Unknown";"Canada";5547
+"Netflix";"Ibadan";"Healthcare";1300;0.33;"2023-01-13";"Pre-IPO";"India";1480
+"Netflix";"Ibadan";"Manufacturing";1960;0.11;"2023-08-03";"Unknown";"Australia";7890
+"Netflix";"Ibadan";"Media";1985;0.31;"2023-07-27";"Series A";"Germany";9030
+"Netflix";"Ibadan";"Media";1990;0.06;"2023-02-10";"Post-IPO";"India";5636
+"Netflix";"Ibadan";"Real Estate";698;0.01;"2023-08-02";"Pre-IPO";"Brazil";2857
+"Netflix";"Ibadan";"Real Estate";1460;0.34;"2023-12-10";"Post-IPO";"United States";9447
+"Netflix";"Ibadan";"Retail";1268;0.4;"2023-08-18";"Pre-IPO";"Canada";8287
+"Netflix";"Ibadan";"Tech";1684;0.27;"2023-02-18";"Startup";"United States";1922
+"Netflix";"Ibadan";"Tech";1764;0.31;"2023-09-07";"Series A";"Canada";3644
+"Netflix";"London";"Automotive";187;0.38;"2023-04-28";"Series B";"Japan";3733
+"Netflix";"London";"Automotive";625;0.22;"2023-01-10";"Series B";"India";3843
+"Netflix";"London";"Automotive";1846;0.16;"2023-03-26";"Series A";"Canada";3044
+"Netflix";"London";"Education";1060;0.49;"2023-06-08";"Series B";"Nigeria";8342
+"Netflix";"London";"Healthcare";1540;0.12;"2023-07-22";"Unknown";"France";6311
+"Netflix";"London";"Manufacturing";33;0.15;"2023-08-26";"Series A";"Nigeria";5419
+"Netflix";"London";"Real Estate";1064;0.09;"2023-08-19";"Pre-IPO";"Japan";9724
+"Netflix";"London";"Retail";1406;0.26;"2023-09-01";"Series B";"Nigeria";732
+"Netflix";"London";"Tech";1351;0.47;"2023-09-07";"Series A";"India";2142
+"Netflix";"Bombay";"Healthcare";1612;0.39;"2023-07-16";"Series A";"Brazil";8054
+"Netflix";"Bombay";"Manufacturing";1076;0.45;"2023-06-16";"Series A";"France";5470
+"Netflix";"Bombay";"Media";1543;0.35;"2023-03-21";"Startup";"India";3580
+"Netflix";"Bombay";"Media";1595;0.02;"2023-10-02";"Pre-IPO";"Germany";3489
+"Netflix";"Bombay";"Retail";1271;0.07;"2023-10-21";"Post-IPO";"United States";6751
+"Netflix";"Bombay";"Retail";1542;0.38;"2023-07-10";"Series B";"Japan";2798
+"Netflix";"Bombay";"Retail";1638;0.36;"2023-11-02";"Series A";"Japan";5222
+"Netflix";"New York City";"Education";753;0.32;"2023-06-25";"Startup";"Germany";5142
+"Netflix";"New York City";"Energy";758;0.2;"2023-03-16";"Unknown";"Japan";4224
+"Netflix";"New York City";"Finance";404;0.37;"2023-09-04";"Startup";"Australia";2216
+"Netflix";"New York City";"Healthcare";446;0.06;"2023-08-27";"Unknown";"Canada";7585
+"Netflix";"New York City";"Manufacturing";275;0.45;"2023-07-24";"Startup";"Nigeria";1484
+"Netflix";"New York City";"Manufacturing";371;0.27;"2023-07-05";"Series A";"UK";4292
+"Netflix";"New York City";"Manufacturing";1815;0.29;"2023-08-01";"Series A";"Japan";3515
+"Netflix";"San Francisco";"Automotive";405;0.47;"2023-07-15";"Pre-IPO";"Nigeria";6948
+"Netflix";"San Francisco";"Automotive";552;0.49;"2023-12-21";"Pre-IPO";"Japan";6758
+"Netflix";"San Francisco";"Education";1391;0.43;"2023-06-07";"Startup";"Australia";6265
+"Netflix";"San Francisco";"Education";1696;0.02;"2023-01-03";"Startup";"Canada";3624
+"Netflix";"San Francisco";"Healthcare";1419;0.22;"2023-08-18";"Startup";"Japan";9557
+"Netflix";"San Francisco";"Media";1899;0.09;"2023-09-19";"Post-IPO";"Brazil";2757
+"Netflix";"San Francisco";"Real Estate";1315;0.44;"2023-12-06";"Series B";"Germany";4883
+"Netflix";"San Francisco";"Retail";503;0.44;"2023-05-13";"Series B";"Japan";6790
+"Netflix";"San Francisco";"Retail";587;0.16;"2023-09-03";"Unknown";"United States";6112
+"Netflix";"San Francisco";"Tech";878;0.33;"2023-06-14";"Startup";"France";4189
+"Netflix";"Sao Paulo";"Automotive";1767;0.28;"2023-07-27";"Series B";"Nigeria";6389
+"Netflix";"Sao Paulo";"Education";318;0.48;"2023-01-25";"Series A";"Australia";3673
+"Netflix";"Sao Paulo";"Finance";1589;0.39;"2023-10-08";"Pre-IPO";"UK";4114
+"Netflix";"Sao Paulo";"Healthcare";101;0.2;"2023-02-01";"Pre-IPO";"France";2957
+"Netflix";"Sao Paulo";"Healthcare";707;0.06;"2023-09-24";"Unknown";"UK";2292
+"Netflix";"Sao Paulo";"Manufacturing";486;0.05;"2023-05-17";"Pre-IPO";"United States";5094
+"Netflix";"Sao Paulo";"Media";803;0.16;"2023-10-10";"Pre-IPO";"United States";4353
+"Netflix";"Sao Paulo";"Retail";1584;0.34;"2023-12-23";"Series A";"Germany";10000
+"Netflix";"Sao Paulo";"Tech";337;0.33;"2023-04-17";"Unknown";"Brazil";74
+"Netflix";"Sao Paulo";"Tech";366;0.22;"2023-09-28";"Startup";"Canada";400
+"Netflix";"Sao Paulo";"Tech";1603;0.38;"2023-02-12";"Pre-IPO";"Germany";1711
+"Netflix";"Sydney";"Automotive";250;0.16;"2023-07-21";"Unknown";"Germany";9860
+"Netflix";"Sydney";"Automotive";668;0.34;"2023-07-19";"Post-IPO";"Nigeria";7594
+"Netflix";"Sydney";"Education";940;0.28;"2023-11-22";"Series B";"Brazil";1368
+"Netflix";"Sydney";"Energy";881;0.41;"2023-09-12";"Series A";"Japan";64
+"Netflix";"Sydney";"Energy";1774;0.18;"2023-08-27";"Series B";"Brazil";8593
+"Netflix";"Sydney";"Finance";169;0.19;"2023-09-18";"Series A";"Nigeria";7076
+"Netflix";"Sydney";"Finance";497;0.08;"2023-07-19";"Startup";"Brazil";2156
+"Netflix";"Sydney";"Finance";958;0.29;"2023-08-16";"Pre-IPO";"UK";250
+"Netflix";"Sydney";"Healthcare";948;0.33;"2023-01-04";"Post-IPO";"United States";5464
+"Netflix";"Sydney";"Healthcare";1767;0.14;"2023-05-21";"Post-IPO";"Japan";1077
+"Netflix";"Sydney";"Media";985;0.31;"2023-01-09";"Series A";"India";6278
+"Netflix";"Sydney";"Media";1121;0.12;"2023-01-22";"Series A";"Australia";1017
+"Netflix";"Sydney";"Real Estate";26;0.3;"2023-08-20";"Series B";"India";5572
+"Netflix";"Sydney";"Real Estate";628;0.33;"2023-10-02";"Series A";"UK";7304
+"Netflix";"Sydney";"Retail";1841;0.46;"2023-04-26";"Startup";"Brazil";5540
+"Netflix";"Sydney";"Tech";11;0.41;"2023-11-27";"Post-IPO";"Japan";5768
+"Netflix";"Sydney";"Tech";1024;0.48;"2023-11-12";"Pre-IPO";"France";9925
+"Netflix";"Tokyo";"Energy";48;0.36;"2023-10-24";"Series B";"United States";2635
+"Netflix";"Tokyo";"Energy";314;0.4;"2023-10-23";"Startup";"Nigeria";3090
+"Netflix";"Tokyo";"Energy";324;0.46;"2023-05-09";"Series B";"Nigeria";6636
+"Netflix";"Tokyo";"Energy";1605;0.24;"2023-05-15";"Unknown";"Australia";7491
+"Netflix";"Tokyo";"Finance";390;0.49;"2023-06-17";"Pre-IPO";"India";7744
+"Netflix";"Tokyo";"Finance";593;0.09;"2023-07-19";"Series A";"India";1022
+"Netflix";"Tokyo";"Healthcare";642;0.09;"2023-11-13";"Series B";"Brazil";4886
+"Netflix";"Tokyo";"Healthcare";777;0.31;"2023-04-20";"Series A";"United States";2614
+"Netflix";"Tokyo";"Manufacturing";38;0.32;"2023-04-24";"Pre-IPO";"France";7333
+"Netflix";"Tokyo";"Media";1113;0.33;"2023-11-19";"Pre-IPO";"Brazil";1277
+"Netflix";"Tokyo";"Media";1287;0.03;"2023-04-10";"Series B";"Australia";6599
+"Netflix";"Tokyo";"Retail";1188;0.08;"2023-11-05";"Series A";"Japan";131
+"Netflix";"Toronto";"Education";21;0.26;"2023-10-22";"Series B";"India";46
+"Netflix";"Toronto";"Manufacturing";1732;0.11;"2023-09-27";"Pre-IPO";"France";981
+"Netflix";"Toronto";"Media";435;0.29;"2023-03-27";"Startup";"Japan";5659
+"Netflix";"Toronto";"Media";1044;0.14;"2023-05-25";"Pre-IPO";"Germany";7215
+"Netflix";"Toronto";"Real Estate";659;0.02;"2023-01-26";"Post-IPO";"Nigeria";9213
+"Netflix";"Toronto";"Real Estate";1178;0.26;"2023-12-07";"Series A";"Nigeria";435
+"Netflix";"Toronto";"Tech";178;0.29;"2023-01-02";"Post-IPO";"Germany";6490
+"SiriusXM";"Berlin";"Education";1735;0.17;"2023-05-07";"Series A";"Canada";9502
+"SiriusXM";"Berlin";"Energy";91;0.37;"2023-11-04";"Series B";"Japan";1092
+"SiriusXM";"Berlin";"Finance";382;0.15;"2023-05-26";"Startup";"India";2585
+"SiriusXM";"Berlin";"Healthcare";223;0.19;"2023-09-04";"Pre-IPO";"India";9848
+"SiriusXM";"Berlin";"Healthcare";1718;0.09;"2023-12-28";"Unknown";"UK";709
+"SiriusXM";"Berlin";"Media";464;0.35;"2023-11-19";"Series B";"United States";7852
+"SiriusXM";"Ibadan";"Energy";1582;0.02;"2023-09-06";"Series B";"Australia";3668
+"SiriusXM";"Ibadan";"Healthcare";957;0.18;"2023-07-05";"Startup";"India";8161
+"SiriusXM";"Ibadan";"Manufacturing";1781;0.08;"2023-02-18";"Post-IPO";"India";3241
+"SiriusXM";"Ibadan";"Media";1288;0.17;"2023-04-11";"Post-IPO";"Japan";9529
+"SiriusXM";"Ibadan";"Media";1844;0.03;"2023-03-18";"Pre-IPO";"Germany";3837
+"SiriusXM";"Ibadan";"Retail";1389;0.18;"2023-01-15";"Startup";"Canada";6019
+"SiriusXM";"Ibadan";"Tech";1863;0.21;"2023-01-03";"Series B";"Australia";4966
+"SiriusXM";"London";"Automotive";300;0.39;"2023-02-02";"Unknown";"Canada";9281
+"SiriusXM";"London";"Automotive";1986;0.14;"2023-02-09";"Post-IPO";"France";4284
+"SiriusXM";"London";"Energy";268;0.14;"2023-01-02";"Pre-IPO";"India";4309
+"SiriusXM";"London";"Energy";641;0.06;"2023-07-17";"Series B";"France";5164
+"SiriusXM";"London";"Healthcare";45;0.3;"2023-12-16";"Series A";"Germany";7532
+"SiriusXM";"London";"Manufacturing";460;0.25;"2023-03-25";"Series A";"Nigeria";6245
+"SiriusXM";"London";"Media";1526;0.11;"2023-05-28";"Pre-IPO";"Germany";6971
+"SiriusXM";"London";"Real Estate";1885;0.14;"2023-09-20";"Series B";"UK";5780
+"SiriusXM";"London";"Retail";1107;0.09;"2023-08-20";"Post-IPO";"UK";7683
+"SiriusXM";"London";"Retail";1746;0.49;"2023-11-14";"Series A";"Brazil";8658
+"SiriusXM";"Bombay";"Education";535;0.14;"2023-07-18";"Pre-IPO";"Brazil";9924
+"SiriusXM";"Bombay";"Education";624;0.38;"2023-06-10";"Startup";"United States";6774
+"SiriusXM";"Bombay";"Healthcare";634;0.06;"2023-02-06";"Startup";"France";5023
+"SiriusXM";"Bombay";"Healthcare";1454;0.42;"2023-04-09";"Series A";"UK";7383
+"SiriusXM";"Bombay";"Media";1862;0.26;"2023-09-08";"Pre-IPO";"United States";2326
+"SiriusXM";"Bombay";"Real Estate";1159;0.4;"2023-07-21";"Unknown";"Australia";8961
+"SiriusXM";"Bombay";"Real Estate";1635;0.17;"2023-05-20";"Pre-IPO";"Nigeria";9861
+"SiriusXM";"Bombay";"Retail";1758;0.12;"2023-08-23";"Series A";"India";6398
+"SiriusXM";"New York City";"Automotive";223;0.02;"2023-03-26";"Series B";"Brazil";7588
+"SiriusXM";"New York City";"Automotive";468;0.34;"2023-11-08";"Pre-IPO";"Germany";8203
+"SiriusXM";"New York City";"Automotive";1090;0.2;"2023-11-15";"Unknown";"Japan";9602
+"SiriusXM";"New York City";"Automotive";1895;0.32;"2023-04-06";"Series A";"Japan";3426
+"SiriusXM";"New York City";"Education";265;0.12;"2023-05-06";"Series B";"Australia";9362
+"SiriusXM";"New York City";"Energy";89;0.28;"2023-09-15";"Post-IPO";"France";7206
+"SiriusXM";"New York City";"Finance";107;0.36;"2023-03-16";"Startup";"Nigeria";3113
+"SiriusXM";"New York City";"Finance";1483;0.3;"2023-07-24";"Unknown";"Brazil";4517
+"SiriusXM";"New York City";"Healthcare";253;0.28;"2023-07-16";"Series B";"Brazil";3664
+"SiriusXM";"New York City";"Manufacturing";624;0.32;"2023-08-15";"Pre-IPO";"France";2475
+"SiriusXM";"New York City";"Manufacturing";1514;0.14;"2023-03-11";"Startup";"Germany";1436
+"SiriusXM";"New York City";"Tech";356;0.38;"2023-05-08";"Series B";"Brazil";3890
+"SiriusXM";"San Francisco";"Education";1961;0.27;"2023-09-23";"Unknown";"France";7249
+"SiriusXM";"San Francisco";"Energy";1062;0.44;"2023-12-22";"Startup";"France";4324
+"SiriusXM";"San Francisco";"Energy";1984;0.29;"2023-04-26";"Pre-IPO";"UK";5333
+"SiriusXM";"San Francisco";"Manufacturing";1802;0.11;"2023-04-22";"Unknown";"United States";1544
+"SiriusXM";"San Francisco";"Real Estate";854;0.31;"2023-09-18";"Post-IPO";"India";9148
+"SiriusXM";"San Francisco";"Real Estate";1459;0.36;"2023-06-17";"Series B";"Japan";6039
+"SiriusXM";"San Francisco";"Retail";660;0.14;"2023-09-04";"Unknown";"India";2284
+"SiriusXM";"San Francisco";"Tech";180;0.07;"2023-02-27";"Startup";"India";8637
+"SiriusXM";"San Francisco";"Tech";1862;0.04;"2023-08-01";"Unknown";"Canada";854
+"SiriusXM";"San Francisco";"Tech";1987;0.18;"2023-03-17";"Startup";"Nigeria";9048
+"SiriusXM";"Sao Paulo";"Automotive";65;0.17;"2023-03-06";"Unknown";"Canada";3608
+"SiriusXM";"Sao Paulo";"Automotive";681;0.28;"2023-09-15";"Unknown";"Japan";2307
+"SiriusXM";"Sao Paulo";"Finance";1014;0.26;"2023-12-25";"Pre-IPO";"Germany";8921
+"SiriusXM";"Sao Paulo";"Finance";1415;0.32;"2023-10-09";"Series B";"France";2293
+"SiriusXM";"Sao Paulo";"Finance";1783;0.46;"2023-04-11";"Series A";"Canada";177
+"SiriusXM";"Sao Paulo";"Healthcare";196;0.42;"2023-12-08";"Pre-IPO";"Brazil";4570
+"SiriusXM";"Sao Paulo";"Healthcare";920;0.38;"2023-02-14";"Unknown";"France";6620
+"SiriusXM";"Sao Paulo";"Healthcare";1631;0.08;"2023-09-20";"Unknown";"France";8888
+"SiriusXM";"Sao Paulo";"Manufacturing";1867;0.12;"2023-06-24";"Startup";"Brazil";8718
+"SiriusXM";"Sao Paulo";"Real Estate";1543;0.47;"2023-09-16";"Series A";"Germany";4118
+"SiriusXM";"Sao Paulo";"Retail";570;0.01;"2023-09-20";"Series B";"Japan";2128
+"SiriusXM";"Sao Paulo";"Retail";1109;0.16;"2023-03-27";"Series B";"Germany";1952
+"SiriusXM";"Sao Paulo";"Retail";1812;0.07;"2023-08-05";"Unknown";"Canada";9843
+"SiriusXM";"Sydney";"Automotive";897;0.36;"2023-08-15";"Unknown";"Germany";9204
+"SiriusXM";"Sydney";"Education";523;0.08;"2023-05-08";"Startup";"United States";3262
+"SiriusXM";"Sydney";"Education";1209;0.27;"2023-09-06";"Post-IPO";"India";9069
+"SiriusXM";"Sydney";"Energy";377;0.15;"2023-10-17";"Unknown";"Brazil";763
+"SiriusXM";"Sydney";"Finance";1826;0.2;"2023-08-09";"Startup";"France";9170
+"SiriusXM";"Sydney";"Healthcare";1404;0.34;"2023-10-14";"Series A";"France";7792
+"SiriusXM";"Sydney";"Manufacturing";156;0.02;"2023-11-19";"Series B";"Germany";3392
+"SiriusXM";"Sydney";"Manufacturing";280;0.22;"2023-10-23";"Series B";"United States";8358
+"SiriusXM";"Sydney";"Media";273;0.19;"2023-09-22";"Unknown";"Brazil";5627
+"SiriusXM";"Sydney";"Real Estate";1832;0.49;"2023-06-25";"Post-IPO";"United States";1047
+"SiriusXM";"Sydney";"Retail";1077;0.06;"2023-09-13";"Startup";"Australia";4701
+"SiriusXM";"Sydney";"Retail";1507;0.11;"2023-05-24";"Post-IPO";"Germany";8909
+"SiriusXM";"Sydney";"Tech";1266;0.35;"2023-11-14";"Series A";"Australia";4981
+"SiriusXM";"Tokyo";"Automotive";110;0.07;"2023-05-15";"Series A";"United States";8860
+"SiriusXM";"Tokyo";"Automotive";479;0.2;"2023-12-27";"Pre-IPO";"UK";6637
+"SiriusXM";"Tokyo";"Energy";1712;0.38;"2023-06-24";"Startup";"Brazil";4747
+"SiriusXM";"Tokyo";"Healthcare";78;0.11;"2023-07-16";"Pre-IPO";"UK";355
+"SiriusXM";"Tokyo";"Manufacturing";1198;0.45;"2023-12-14";"Startup";"Australia";1607
+"SiriusXM";"Tokyo";"Manufacturing";1907;0.17;"2023-09-11";"Series B";"UK";516
+"SiriusXM";"Tokyo";"Media";798;0.3;"2023-10-28";"Pre-IPO";"Nigeria";6257
+"SiriusXM";"Tokyo";"Real Estate";1658;0.13;"2023-11-05";"Startup";"Canada";8925
+"SiriusXM";"Tokyo";"Tech";375;0.44;"2023-03-13";"Series B";"Australia";5141
+"SiriusXM";"Tokyo";"Tech";1212;0.3;"2023-08-16";"Series B";"India";3439
+"SiriusXM";"Toronto";"Automotive";697;0.1;"2023-04-10";"Unknown";"Australia";3865
+"SiriusXM";"Toronto";"Education";572;0.19;"2023-03-12";"Series A";"India";6010
+"SiriusXM";"Toronto";"Energy";299;0.03;"2023-12-08";"Post-IPO";"Japan";486
+"SiriusXM";"Toronto";"Energy";362;0.01;"2023-10-16";"Startup";"Japan";4318
+"SiriusXM";"Toronto";"Energy";1851;0.12;"2023-07-08";"Series B";"India";9567
+"SiriusXM";"Toronto";"Media";96;0.14;"2023-07-18";"Startup";"Japan";9562
+"SiriusXM";"Toronto";"Retail";1039;0.3;"2023-01-17";"Series B";"Canada";443
+"SiriusXM";"Toronto";"Tech";1567;0.45;"2023-07-06";"Pre-IPO";"Japan";4378
+"Tesla";"Berlin";"Automotive";1446;0.22;"2023-02-22";"Pre-IPO";"Canada";2339
+"Tesla";"Berlin";"Energy";656;0.31;"2023-06-13";"Series A";"Australia";7381
+"Tesla";"Berlin";"Energy";1538;0.31;"2023-09-11";"Pre-IPO";"France";7385
+"Tesla";"Berlin";"Finance";1625;0.28;"2023-10-07";"Post-IPO";"France";4125
+"Tesla";"Berlin";"Healthcare";452;0.06;"2023-01-16";"Series B";"France";6993
+"Tesla";"Berlin";"Healthcare";502;0.35;"2023-10-21";"Pre-IPO";"France";2458
+"Tesla";"Berlin";"Healthcare";1031;0.12;"2023-09-13";"Series A";"Canada";9604
+"Tesla";"Berlin";"Retail";781;0.32;"2023-05-08";"Startup";"Nigeria";5207
+"Tesla";"Berlin";"Tech";294;0.06;"2023-06-23";"Post-IPO";"Japan";1527
+"Tesla";"Ibadan";"Automotive";500;0.35;"2023-11-09";"Pre-IPO";"Australia";9703
+"Tesla";"Ibadan";"Education";620;0.27;"2023-12-04";"Series A";"UK";4843
+"Tesla";"Ibadan";"Energy";717;0.12;"2023-08-26";"Series B";"Japan";1846
+"Tesla";"Ibadan";"Manufacturing";21;0.35;"2023-11-18";"Startup";"France";9138
+"Tesla";"Ibadan";"Manufacturing";276;0.13;"2023-04-23";"Unknown";"Germany";7707
+"Tesla";"Ibadan";"Real Estate";1173;0.19;"2023-07-18";"Series A";"India";7709
+"Tesla";"London";"Automotive";511;0.07;"2023-07-23";"Series B";"France";6878
+"Tesla";"London";"Healthcare";1637;0.3;"2023-04-12";"Series B";"Nigeria";4343
+"Tesla";"London";"Manufacturing";1841;0.46;"2023-02-27";"Startup";"Germany";6718
+"Tesla";"London";"Retail";437;0.03;"2023-08-19";"Series B";"Canada";7529
+"Tesla";"Bombay";"Finance";1366;0.12;"2023-02-07";"Post-IPO";"United States";1895
+"Tesla";"Bombay";"Manufacturing";1412;0.5;"2023-11-14";"Pre-IPO";"Brazil";7414
+"Tesla";"Bombay";"Tech";1642;0.34;"2023-04-20";"Startup";"Germany";8433
+"Tesla";"New York City";"Automotive";1762;0.24;"2023-11-27";"Unknown";"India";2987
+"Tesla";"New York City";"Energy";1413;0.27;"2023-03-22";"Unknown";"UK";1957
+"Tesla";"New York City";"Finance";436;0.35;"2023-12-06";"Series A";"Japan";7964
+"Tesla";"New York City";"Finance";1366;0.04;"2023-08-25";"Startup";"Germany";4675
+"Tesla";"New York City";"Healthcare";296;0.17;"2023-12-04";"Series B";"Nigeria";558
+"Tesla";"New York City";"Manufacturing";1923;0.28;"2023-10-05";"Pre-IPO";"Australia";955
+"Tesla";"New York City";"Media";374;0.32;"2023-02-02";"Series A";"Germany";5211
+"Tesla";"New York City";"Media";1770;0.04;"2023-03-28";"Startup";"Japan";6692
+"Tesla";"New York City";"Retail";149;0.07;"2023-10-05";"Post-IPO";"United States";972
+"Tesla";"New York City";"Retail";315;0.2;"2023-09-28";"Series B";"United States";4885
+"Tesla";"New York City";"Retail";577;0.04;"2023-12-23";"Startup";"Germany";3666
+"Tesla";"New York City";"Retail";1217;0.43;"2023-08-02";"Pre-IPO";"Nigeria";2233
+"Tesla";"New York City";"Tech";438;0.41;"2023-12-06";"Unknown";"France";9340
+"Tesla";"New York City";"Tech";1764;0.24;"2023-07-08";"Unknown";"France";3287
+"Tesla";"San Francisco";"Automotive";222;0.08;"2023-05-21";"Series A";"India";9492
+"Tesla";"San Francisco";"Automotive";1914;0.42;"2023-10-02";"Series A";"Nigeria";7770
+"Tesla";"San Francisco";"Education";747;0.46;"2023-06-05";"Post-IPO";"United States";7421
+"Tesla";"San Francisco";"Education";1752;0.02;"2023-02-08";"Startup";"Brazil";7843
+"Tesla";"San Francisco";"Finance";1084;0.12;"2023-12-04";"Series B";"France";6649
+"Tesla";"San Francisco";"Healthcare";1194;0.11;"2023-07-18";"Pre-IPO";"France";4878
+"Tesla";"San Francisco";"Media";1385;0.3;"2023-11-25";"Series A";"Germany";9222
+"Tesla";"San Francisco";"Real Estate";216;0.34;"2023-03-14";"Series B";"United States";532
+"Tesla";"San Francisco";"Real Estate";886;0.26;"2023-05-21";"Pre-IPO";"UK";640
+"Tesla";"San Francisco";"Retail";833;0.17;"2023-03-27";"Post-IPO";"Germany";6164
+"Tesla";"San Francisco";"Retail";1126;0.34;"2023-05-06";"Unknown";"United States";7196
+"Tesla";"San Francisco";"Tech";736;0.37;"2023-10-26";"Unknown";"Japan";9649
+"Tesla";"Sao Paulo";"Automotive";185;0.18;"2023-04-21";"Series A";"Australia";7834
+"Tesla";"Sao Paulo";"Education";32;0.43;"2023-03-24";"Unknown";"United States";6618
+"Tesla";"Sao Paulo";"Energy";120;0.31;"2023-12-24";"Unknown";"France";2400
+"Tesla";"Sao Paulo";"Energy";717;0.18;"2023-10-23";"Unknown";"Japan";4115
+"Tesla";"Sao Paulo";"Energy";1837;0.23;"2023-06-23";"Post-IPO";"France";5866
+"Tesla";"Sao Paulo";"Healthcare";504;0.24;"2023-04-15";"Pre-IPO";"India";4895
+"Tesla";"Sao Paulo";"Healthcare";1092;0.31;"2023-04-06";"Series B";"UK";6488
+"Tesla";"Sao Paulo";"Healthcare";1871;0.16;"2023-08-23";"Pre-IPO";"India";6127
+"Tesla";"Sao Paulo";"Manufacturing";790;0.3;"2023-06-14";"Series B";"UK";3908
+"Tesla";"Sao Paulo";"Manufacturing";888;0.18;"2023-04-26";"Series B";"UK";8085
+"Tesla";"Sao Paulo";"Retail";648;0.17;"2023-02-10";"Series A";"Canada";2766
+"Tesla";"Sydney";"Education";1356;0.24;"2023-03-03";"Unknown";"Canada";1989
+"Tesla";"Sydney";"Education";1386;0.18;"2023-09-26";"Series B";"Australia";8072
+"Tesla";"Sydney";"Finance";1841;0.09;"2023-01-16";"Startup";"UK";2692
+"Tesla";"Sydney";"Manufacturing";1065;0.43;"2023-08-10";"Post-IPO";"France";117
+"Tesla";"Sydney";"Real Estate";658;0.02;"2023-10-06";"Series B";"Germany";5688
+"Tesla";"Sydney";"Real Estate";1065;0.3;"2023-02-04";"Startup";"Australia";5999
+"Tesla";"Sydney";"Tech";1230;0.33;"2023-06-18";"Unknown";"France";7369
+"Tesla";"Tokyo";"Automotive";223;0.28;"2023-02-08";"Post-IPO";"United States";6955
+"Tesla";"Tokyo";"Automotive";472;0.2;"2023-06-25";"Series A";"Japan";5315
+"Tesla";"Tokyo";"Education";1343;0.34;"2023-11-10";"Series A";"Australia";89
+"Tesla";"Tokyo";"Education";1412;0.05;"2023-06-13";"Unknown";"Japan";8850
+"Tesla";"Tokyo";"Education";1426;0.48;"2023-09-02";"Startup";"India";5545
+"Tesla";"Tokyo";"Energy";552;0.37;"2023-09-08";"Pre-IPO";"UK";4350
+"Tesla";"Tokyo";"Healthcare";915;0.34;"2023-10-11";"Unknown";"UK";274
+"Tesla";"Tokyo";"Media";451;0.44;"2023-03-20";"Series A";"United States";9098
+"Tesla";"Tokyo";"Media";1145;0.26;"2023-01-21";"Series B";"India";4172
+"Tesla";"Tokyo";"Real Estate";1390;0.42;"2023-03-03";"Series A";"Japan";7857
+"Tesla";"Tokyo";"Real Estate";1819;0.2;"2023-08-23";"Pre-IPO";"Japan";6950
+"Tesla";"Tokyo";"Retail";129;0.49;"2023-03-19";"Startup";"Japan";5224
+"Tesla";"Tokyo";"Retail";997;0.37;"2023-09-07";"Series B";"India";6862
+"Tesla";"Tokyo";"Tech";773;0.17;"2023-09-27";"Post-IPO";"Germany";1100
+"Tesla";"Toronto";"Automotive";1799;0.21;"2023-03-21";"Series A";"Brazil";2182
+"Tesla";"Toronto";"Automotive";1969;0.03;"2023-05-20";"Pre-IPO";"Nigeria";4217
+"Tesla";"Toronto";"Finance";1290;0.41;"2023-03-18";"Pre-IPO";"Brazil";1713
+"Tesla";"Toronto";"Media";224;0.17;"2023-08-18";"Series B";"United States";2713
+"Tesla";"Toronto";"Media";1897;0.03;"2023-02-06";"Series B";"India";8203
+"Tesla";"Toronto";"Real Estate";1920;0.02;"2023-01-16";"Unknown";"UK";5479
+"UpGrad";"Berlin";"Automotive";1126;0.46;"2023-02-03";"Post-IPO";"India";9217
+"UpGrad";"Berlin";"Automotive";1352;0.18;"2023-06-09";"Unknown";"Nigeria";3449
+"UpGrad";"Berlin";"Education";219;0.03;"2023-08-27";"Series B";"India";9320
+"UpGrad";"Berlin";"Education";346;0.36;"2023-12-17";"Unknown";"Canada";9968
+"UpGrad";"Berlin";"Education";1393;0.38;"2023-10-24";"Series B";"UK";7081
+"UpGrad";"Berlin";"Education";1963;0.23;"2023-07-19";"Pre-IPO";"Japan";6684
+"UpGrad";"Berlin";"Energy";1909;0.13;"2023-09-05";"Startup";"France";6142
+"UpGrad";"Berlin";"Healthcare";828;0.16;"2023-09-09";"Post-IPO";"Nigeria";3122
+"UpGrad";"Berlin";"Manufacturing";550;0.49;"2023-07-16";"Unknown";"Canada";5744
+"UpGrad";"Berlin";"Manufacturing";1915;0.39;"2023-09-21";"Series B";"Nigeria";5151
+"UpGrad";"Berlin";"Real Estate";1573;0.14;"2023-11-16";"Post-IPO";"Australia";5799
+"UpGrad";"Berlin";"Real Estate";1649;0.44;"2023-04-04";"Startup";"UK";9190
+"UpGrad";"Ibadan";"Education";522;0.14;"2023-03-20";"Series A";"United States";7208
+"UpGrad";"Ibadan";"Education";860;0.48;"2023-06-07";"Unknown";"Nigeria";5710
+"UpGrad";"Ibadan";"Energy";855;0.44;"2023-05-24";"Pre-IPO";"Canada";7122
+"UpGrad";"Ibadan";"Finance";427;0.18;"2023-08-04";"Series B";"Japan";2050
+"UpGrad";"Ibadan";"Finance";1652;0.31;"2023-08-16";"Unknown";"UK";31
+"UpGrad";"Ibadan";"Healthcare";958;0.37;"2023-10-17";"Unknown";"Canada";9180
+"UpGrad";"Ibadan";"Manufacturing";1203;0.35;"2023-06-16";"Unknown";"Brazil";4367
+"UpGrad";"Ibadan";"Manufacturing";1636;0.4;"2023-05-10";"Pre-IPO";"United States";6763
+"UpGrad";"Ibadan";"Media";214;0.05;"2023-05-19";"Series B";"India";9392
+"UpGrad";"Ibadan";"Media";584;0.36;"2023-03-02";"Pre-IPO";"Canada";4533
+"UpGrad";"Ibadan";"Media";1454;0.06;"2023-01-08";"Startup";"India";1885
+"UpGrad";"Ibadan";"Retail";1601;0.23;"2023-12-19";"Pre-IPO";"Brazil";8365
+"UpGrad";"Ibadan";"Retail";1773;0.05;"2023-02-13";"Series A";"Japan";1462
+"UpGrad";"London";"Automotive";1997;0.21;"2023-04-25";"Series B";"Germany";3282
+"UpGrad";"London";"Education";244;0.39;"2023-09-03";"Startup";"India";6260
+"UpGrad";"London";"Finance";602;0.31;"2023-05-23";"Pre-IPO";"Nigeria";3149
+"UpGrad";"London";"Finance";1881;0.43;"2023-07-08";"Series A";"Nigeria";5663
+"UpGrad";"London";"Healthcare";649;0.33;"2023-09-02";"Unknown";"Germany";6373
+"UpGrad";"London";"Healthcare";1093;0.41;"2023-11-04";"Post-IPO";"Brazil";2611
+"UpGrad";"London";"Manufacturing";699;0.13;"2023-11-27";"Pre-IPO";"Japan";5573
+"UpGrad";"London";"Media";1201;0.02;"2023-12-16";"Series B";"United States";1399
+"UpGrad";"London";"Media";1680;0.11;"2023-12-18";"Startup";"France";2558
+"UpGrad";"London";"Retail";37;0.12;"2023-04-15";"Pre-IPO";"India";8166
+"UpGrad";"London";"Retail";1068;0.16;"2023-09-14";"Startup";"United States";9155
+"UpGrad";"London";"Retail";1433;0.1;"2023-03-06";"Series A";"Brazil";1682
+"UpGrad";"London";"Tech";12;0.26;"2023-04-13";"Post-IPO";"Brazil";9877
+"UpGrad";"Bombay";"Energy";1643;0.14;"2023-07-25";"Post-IPO";"Germany";4873
+"UpGrad";"Bombay";"Energy";1730;0.37;"2023-04-22";"Series B";"Nigeria";1234
+"UpGrad";"Bombay";"Healthcare";460;0.41;"2023-10-08";"Unknown";"Nigeria";7566
+"UpGrad";"Bombay";"Manufacturing";901;0.39;"2023-01-20";"Series B";"UK";4298
+"UpGrad";"New York City";"Automotive";1706;0.05;"2023-06-17";"Series B";"UK";942
+"UpGrad";"New York City";"Finance";1905;0.35;"2023-12-02";"Unknown";"Australia";800
+"UpGrad";"New York City";"Manufacturing";1820;0.01;"2023-05-25";"Unknown";"Australia";9791
+"UpGrad";"New York City";"Media";220;0.36;"2023-11-10";"Post-IPO";"Brazil";1458
+"UpGrad";"New York City";"Media";632;0.16;"2023-10-21";"Startup";"Brazil";3778
+"UpGrad";"New York City";"Retail";688;0.36;"2023-06-13";"Pre-IPO";"United States";4575
+"UpGrad";"New York City";"Tech";655;0.43;"2023-09-28";"Startup";"Japan";2515
+"UpGrad";"San Francisco";"Automotive";284;0.16;"2023-03-23";"Post-IPO";"India";946
+"UpGrad";"San Francisco";"Energy";174;0.27;"2023-07-26";"Post-IPO";"Canada";9490
+"UpGrad";"San Francisco";"Energy";920;0.24;"2023-10-08";"Startup";"Australia";466
+"UpGrad";"San Francisco";"Energy";2000;0.11;"2023-05-02";"Startup";"Canada";6372
+"UpGrad";"San Francisco";"Finance";730;0.06;"2023-08-07";"Unknown";"United States";9653
+"UpGrad";"San Francisco";"Finance";1924;0.43;"2023-09-05";"Post-IPO";"Nigeria";9181
+"UpGrad";"San Francisco";"Healthcare";700;0.02;"2023-02-27";"Series A";"India";5596
+"UpGrad";"San Francisco";"Tech";336;0.36;"2023-11-11";"Startup";"Brazil";639
+"UpGrad";"Sao Paulo";"Automotive";1836;0.21;"2023-02-12";"Startup";"France";5257
+"UpGrad";"Sao Paulo";"Automotive";1903;0.19;"2023-05-09";"Series B";"France";5238
+"UpGrad";"Sao Paulo";"Education";1108;0.32;"2023-08-19";"Series A";"Brazil";6525
+"UpGrad";"Sao Paulo";"Education";1990;0.24;"2023-11-13";"Startup";"Australia";4175
+"UpGrad";"Sao Paulo";"Energy";1966;0.11;"2023-12-02";"Pre-IPO";"Germany";9690
+"UpGrad";"Sao Paulo";"Healthcare";541;0.24;"2023-12-17";"Series B";"Japan";719
+"UpGrad";"Sao Paulo";"Healthcare";1630;0.38;"2023-06-26";"Unknown";"United States";674
+"UpGrad";"Sao Paulo";"Media";1032;0.23;"2023-01-11";"Unknown";"France";752
+"UpGrad";"Sao Paulo";"Tech";1764;0.34;"2023-06-02";"Post-IPO";"India";9784
+"UpGrad";"Sao Paulo";"Tech";1913;0.19;"2023-10-17";"Series A";"Australia";7907
+"UpGrad";"Sydney";"Automotive";1255;0.2;"2023-06-26";"Startup";"Germany";299
+"UpGrad";"Sydney";"Energy";865;0.33;"2023-04-26";"Series A";"India";1349
+"UpGrad";"Sydney";"Energy";1462;0.4;"2023-02-03";"Pre-IPO";"Germany";5463
+"UpGrad";"Sydney";"Finance";652;0.46;"2023-08-02";"Series A";"Japan";4384
+"UpGrad";"Sydney";"Finance";846;0.43;"2023-11-27";"Post-IPO";"Nigeria";9021
+"UpGrad";"Sydney";"Finance";888;0.33;"2023-09-11";"Pre-IPO";"Canada";8217
+"UpGrad";"Sydney";"Manufacturing";1047;0.11;"2023-07-08";"Startup";"France";3114
+"UpGrad";"Sydney";"Manufacturing";1817;0.14;"2023-01-15";"Pre-IPO";"Japan";6547
+"UpGrad";"Sydney";"Media";45;0.15;"2023-02-21";"Unknown";"Germany";1972
+"UpGrad";"Sydney";"Media";943;0.22;"2023-11-05";"Startup";"Japan";4883
+"UpGrad";"Sydney";"Media";1050;0.17;"2023-01-25";"Post-IPO";"Canada";8361
+"UpGrad";"Sydney";"Media";1098;0.3;"2023-08-15";"Series A";"Canada";1710
+"UpGrad";"Sydney";"Real Estate";172;0.09;"2023-07-25";"Pre-IPO";"Australia";7631
+"UpGrad";"Sydney";"Real Estate";653;0.43;"2023-01-20";"Series B";"Japan";66
+"UpGrad";"Sydney";"Tech";1957;0.13;"2023-12-24";"Series A";"Japan";5142
+"UpGrad";"Tokyo";"Automotive";1108;0.24;"2023-07-23";"Series B";"Brazil";8304
+"UpGrad";"Tokyo";"Education";1284;0.5;"2023-12-08";"Unknown";"UK";6419
+"UpGrad";"Tokyo";"Education";1818;0.36;"2023-09-25";"Post-IPO";"Nigeria";5715
+"UpGrad";"Tokyo";"Real Estate";1219;0.25;"2023-08-06";"Series B";"Brazil";4299
+"UpGrad";"Tokyo";"Retail";17;0.13;"2023-08-14";"Post-IPO";"Germany";4457
+"UpGrad";"Tokyo";"Tech";262;0.24;"2023-03-14";"Series B";"Canada";852
+"UpGrad";"Toronto";"Automotive";447;0.07;"2023-10-28";"Unknown";"United States";887
+"UpGrad";"Toronto";"Automotive";1433;0.06;"2023-01-07";"Series B";"Nigeria";5280
+"UpGrad";"Toronto";"Finance";354;0.14;"2023-06-03";"Post-IPO";"Australia";4452
+"UpGrad";"Toronto";"Healthcare";1972;0.24;"2023-07-11";"Post-IPO";"Germany";2641
+"UpGrad";"Toronto";"Manufacturing";514;0.07;"2023-12-12";"Unknown";"France";9487
+"UpGrad";"Toronto";"Media";341;0.06;"2023-11-25";"Series B";"India";9512
+"UpGrad";"Toronto";"Real Estate";762;0.12;"2023-12-24";"Unknown";"Nigeria";977
+"UpGrad";"Toronto";"Retail";1401;0.3;"2023-04-21";"Series B";"Japan";861
+"UpGrad";"Toronto";"Tech";1198;0.06;"2023-05-13";"Pre-IPO";"Germany";3897
+"UpGrad";"Toronto";"Tech";1741;0.47;"2023-05-18";"Series B";"Nigeria";377
